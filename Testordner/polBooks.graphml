@@ -1,0 +1,2387 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="community" attr.type="string" for="node" id="community"/>
+<graph edgedefault="undirected">
+<node id="0">
+<data key="label">1000 Years for Revenge</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">134.3337</data>
+<data key="y">149.31061</data>
+</node>
+<node id="1">
+<data key="label">Bush vs. the Beltway</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">82.24773</data>
+<data key="y">130.37982</data>
+</node>
+<node id="2">
+<data key="label">Charlie Wilson's War</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-82.7342</data>
+<data key="y">-77.19005</data>
+</node>
+<node id="3">
+<data key="label">Losing Bin Laden</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">190.86894</data>
+<data key="y">114.24813</data>
+</node>
+<node id="4">
+<data key="label">Sleeping With the Devil</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">122.619316</data>
+<data key="y">201.2894</data>
+</node>
+<node id="5">
+<data key="label">The Man Who Warned America</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">97.68588</data>
+<data key="y">-177.2093</data>
+</node>
+<node id="6">
+<data key="label">Why America Slept</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-180.55647</data>
+<data key="y">201.45012</data>
+</node>
+<node id="7">
+<data key="label">Ghost Wars</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">27.006077</data>
+<data key="y">171.4175</data>
+</node>
+<node id="8">
+<data key="label">A National Party No More</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-76.58102</data>
+<data key="y">152.01543</data>
+</node>
+<node id="9">
+<data key="label">Bush Country</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-74.184006</data>
+<data key="y">-7.785395</data>
+</node>
+<node id="10">
+<data key="label">Dereliction of Duty</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-86.72669</data>
+<data key="y">17.08841</data>
+</node>
+<node id="11">
+<data key="label">Legacy</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">86.76909</data>
+<data key="y">172.08488</data>
+</node>
+<node id="12">
+<data key="label">Off with Their Heads</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">50.21267</data>
+<data key="y">155.86557</data>
+</node>
+<node id="13">
+<data key="label">Persecution</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">159.83995</data>
+<data key="y">-13.814216</data>
+</node>
+<node id="14">
+<data key="label">Rumsfeld's War</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">65.51755</data>
+<data key="y">40.593365</data>
+</node>
+<node id="15">
+<data key="label">Breakdown</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">182.05139</data>
+<data key="y">-4.377021</data>
+</node>
+<node id="16">
+<data key="label">Betrayal</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-11.90723</data>
+<data key="y">-48.078865</data>
+</node>
+<node id="17">
+<data key="label">Shut Up and Sing</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-32.428066</data>
+<data key="y">131.87163</data>
+</node>
+<node id="18">
+<data key="label">Meant To Be</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">2.9012659</data>
+<data key="y">-19.431696</data>
+</node>
+<node id="19">
+<data key="label">The Right Man</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-174.1288</data>
+<data key="y">-143.58488</data>
+</node>
+<node id="20">
+<data key="label">Ten Minutes from Normal</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-37.14671</data>
+<data key="y">-113.50989</data>
+</node>
+<node id="21">
+<data key="label">Hillary's Scheme</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">113.512474</data>
+<data key="y">-37.394905</data>
+</node>
+<node id="22">
+<data key="label">The French Betrayal of America</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-179.13829</data>
+<data key="y">1.4916439</data>
+</node>
+<node id="23">
+<data key="label">Tales from the Left Coast</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-24.44882</data>
+<data key="y">-122.237</data>
+</node>
+<node id="24">
+<data key="label">Hating America</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-194.5841</data>
+<data key="y">-191.49449</data>
+</node>
+<node id="25">
+<data key="label">The Third Terrorist</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-4.600565</data>
+<data key="y">-172.94133</data>
+</node>
+<node id="26">
+<data key="label">Endgame</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">32.16655</data>
+<data key="y">-109.486015</data>
+</node>
+<node id="27">
+<data key="label">Spin Sisters</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">147.40697</data>
+<data key="y">-63.282528</data>
+</node>
+<node id="28">
+<data key="label">All the Shah's Men</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-174.34473</data>
+<data key="y">-185.63776</data>
+</node>
+<node id="29">
+<data key="label">Dangerous Dimplomacy</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-165.70049</data>
+<data key="y">-117.377525</data>
+</node>
+<node id="30">
+<data key="label">The Price of Loyalty</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">119.46221</data>
+<data key="y">-0.5248844</data>
+</node>
+<node id="31">
+<data key="label">House of Bush, House of Saud</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">92.00688</data>
+<data key="y">-168.6054</data>
+</node>
+<node id="32">
+<data key="label">The Death of Right and Wrong</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-90.313385</data>
+<data key="y">118.7548</data>
+</node>
+<node id="33">
+<data key="label">Useful Idiots</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">57.30207</data>
+<data key="y">174.5488</data>
+</node>
+<node id="34">
+<data key="label">The O'Reilly Factor</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-144.18425</data>
+<data key="y">88.7033</data>
+</node>
+<node id="35">
+<data key="label">Let Freedom Ring</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">119.065674</data>
+<data key="y">-77.66045</data>
+</node>
+<node id="36">
+<data key="label">Those Who Trespass</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-45.322685</data>
+<data key="y">-171.9214</data>
+</node>
+<node id="37">
+<data key="label">Bias</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">11.877999</data>
+<data key="y">2.4259822</data>
+</node>
+<node id="38">
+<data key="label">Slander</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">157.31238</data>
+<data key="y">-100.84087</data>
+</node>
+<node id="39">
+<data key="label">The Savage Nation</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-138.96582</data>
+<data key="y">99.500786</data>
+</node>
+<node id="40">
+<data key="label">Deliver Us from Evil</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">55.245697</data>
+<data key="y">92.95716</data>
+</node>
+<node id="41">
+<data key="label">Give Me a Break</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-149.03381</data>
+<data key="y">75.54388</data>
+</node>
+<node id="42">
+<data key="label">The Enemy Within</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-68.22912</data>
+<data key="y">179.48671</data>
+</node>
+<node id="43">
+<data key="label">The Real America</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">164.44807</data>
+<data key="y">-173.62267</data>
+</node>
+<node id="44">
+<data key="label">Who's Looking Out for You?</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">155.50914</data>
+<data key="y">16.457869</data>
+</node>
+<node id="45">
+<data key="label">The Official Handbook Vast Right Wing Conspiracy</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-72.15003</data>
+<data key="y">-141.28691</data>
+</node>
+<node id="46">
+<data key="label">Power Plays</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-112.36001</data>
+<data key="y">194.53459</data>
+</node>
+<node id="47">
+<data key="label">Arrogance</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">98.097824</data>
+<data key="y">112.901085</data>
+</node>
+<node id="48">
+<data key="label">The Perfect Wife</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">180.84407</data>
+<data key="y">194.55869</data>
+</node>
+<node id="49">
+<data key="label">The Bushes</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">139.88626</data>
+<data key="y">-189.8988</data>
+</node>
+<node id="50">
+<data key="label">Things Worth Fighting For</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-32.862297</data>
+<data key="y">-158.0912</data>
+</node>
+<node id="51">
+<data key="label">Surprise, Security, the American Experience</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-32.91763</data>
+<data key="y">-31.382807</data>
+</node>
+<node id="52">
+<data key="label">Allies</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">163.42044</data>
+<data key="y">65.428154</data>
+</node>
+<node id="53">
+<data key="label">Why Courage Matters</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">160.14941</data>
+<data key="y">-87.3521</data>
+</node>
+<node id="54">
+<data key="label">Hollywood Interrupted</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-32.303482</data>
+<data key="y">-196.87921</data>
+</node>
+<node id="55">
+<data key="label">Fighting Back</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">121.809105</data>
+<data key="y">-12.275264</data>
+</node>
+<node id="56">
+<data key="label">We Will Prevail</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-24.426981</data>
+<data key="y">144.08177</data>
+</node>
+<node id="57">
+<data key="label">The Faith of George W Bush</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-3.9470127</data>
+<data key="y">0.6218807</data>
+</node>
+<node id="58">
+<data key="label">Rise of the Vulcans</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-184.22348</data>
+<data key="y">55.89239</data>
+</node>
+<node id="59">
+<data key="label">Downsize This!</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-148.99721</data>
+<data key="y">-182.45982</data>
+</node>
+<node id="60">
+<data key="label">Stupid White Men</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-14.927726</data>
+<data key="y">-81.02352</data>
+</node>
+<node id="61">
+<data key="label">Rush Limbaugh Is a Big Fat Idiot</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">14.01135</data>
+<data key="y">-117.11851</data>
+</node>
+<node id="62">
+<data key="label">The Best Democracy Money Can Buy</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">57.109417</data>
+<data key="y">-25.81927</data>
+</node>
+<node id="63">
+<data key="label">The Culture of Fear</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-52.214447</data>
+<data key="y">-38.053707</data>
+</node>
+<node id="64">
+<data key="label">America Unbound</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">46.35693</data>
+<data key="y">-112.89375</data>
+</node>
+<node id="65">
+<data key="label">The Choice</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">69.20378</data>
+<data key="y">164.40244</data>
+</node>
+<node id="66">
+<data key="label">The Great Unraveling</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">27.43552</data>
+<data key="y">142.48515</data>
+</node>
+<node id="67">
+<data key="label">Rogue Nation</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-162.1092</data>
+<data key="y">71.3889</data>
+</node>
+<node id="68">
+<data key="label">Soft Power</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-58.208893</data>
+<data key="y">-95.83883</data>
+</node>
+<node id="69">
+<data key="label">Colossus</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-120.496254</data>
+<data key="y">-32.365826</data>
+</node>
+<node id="70">
+<data key="label">The Sorrows of Empire</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">67.79653</data>
+<data key="y">110.999016</data>
+</node>
+<node id="71">
+<data key="label">Against All Enemies</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-140.92659</data>
+<data key="y">-29.016169</data>
+</node>
+<node id="72">
+<data key="label">American Dynasty</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">87.00835</data>
+<data key="y">126.312584</data>
+</node>
+<node id="73">
+<data key="label">Big Lies</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">82.63564</data>
+<data key="y">-144.7517</data>
+</node>
+<node id="74">
+<data key="label">The Lies of George W. Bush</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-151.55351</data>
+<data key="y">18.168634</data>
+</node>
+<node id="75">
+<data key="label">Worse Than Watergate</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">180.77864</data>
+<data key="y">178.29701</data>
+</node>
+<node id="76">
+<data key="label">Plan of Attack</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-185.59496</data>
+<data key="y">120.186485</data>
+</node>
+<node id="77">
+<data key="label">Bush at War</data>
+<data key="community">c</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-84.37839</data>
+<data key="y">-44.159332</data>
+</node>
+<node id="78">
+<data key="label">The New Pearl Harbor</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">165.44324</data>
+<data key="y">107.22204</data>
+</node>
+<node id="79">
+<data key="label">Bushwomen</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-46.86757</data>
+<data key="y">-37.64046</data>
+</node>
+<node id="80">
+<data key="label">The Bubble of American Supremacy</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-151.15425</data>
+<data key="y">-182.41191</data>
+</node>
+<node id="81">
+<data key="label">Living History</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-44.419193</data>
+<data key="y">194.15033</data>
+</node>
+<node id="82">
+<data key="label">The Politics of Truth</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">73.9832</data>
+<data key="y">-136.77013</data>
+</node>
+<node id="83">
+<data key="label">Fanatics and Fools</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-25.684538</data>
+<data key="y">-104.51898</data>
+</node>
+<node id="84">
+<data key="label">Bushwhacked</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">89.642914</data>
+<data key="y">91.53978</data>
+</node>
+<node id="85">
+<data key="label">Disarming Iraq</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">60.943817</data>
+<data key="y">27.35755</data>
+</node>
+<node id="86">
+<data key="label">Lies and the Lying Liars Who Tell Them</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">122.54189</data>
+<data key="y">197.261</data>
+</node>
+<node id="87">
+<data key="label">MoveOn's 50 Ways to Love Your Country</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-134.61662</data>
+<data key="y">-50.577145</data>
+</node>
+<node id="88">
+<data key="label">The Buying of the President 2004</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-87.12635</data>
+<data key="y">30.195148</data>
+</node>
+<node id="89">
+<data key="label">Perfectly Legal</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-47.85541</data>
+<data key="y">-10.976619</data>
+</node>
+<node id="90">
+<data key="label">Hegemony or Survival</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">151.88223</data>
+<data key="y">-195.80453</data>
+</node>
+<node id="91">
+<data key="label">The Exception to the Rulers</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">41.59597</data>
+<data key="y">-112.50525</data>
+</node>
+<node id="92">
+<data key="label">Freethinkers</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-91.90434</data>
+<data key="y">85.191315</data>
+</node>
+<node id="93">
+<data key="label">Had Enough?</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-29.147696</data>
+<data key="y">-157.76666</data>
+</node>
+<node id="94">
+<data key="label">It's Still the Economy, Stupid!</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-177.00603</data>
+<data key="y">120.75707</data>
+</node>
+<node id="95">
+<data key="label">We're Right They're Wrong</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">69.31767</data>
+<data key="y">4.136212</data>
+</node>
+<node id="96">
+<data key="label">What Liberal Media?</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">63.525337</data>
+<data key="y">-28.99759</data>
+</node>
+<node id="97">
+<data key="label">The Clinton Wars</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">56.80595</data>
+<data key="y">-156.49231</data>
+</node>
+<node id="98">
+<data key="label">Weapons of Mass Deception</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">138.02611</data>
+<data key="y">-189.67181</data>
+</node>
+<node id="99">
+<data key="label">Dude, Where's My Country?</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-102.44846</data>
+<data key="y">-36.453815</data>
+</node>
+<node id="100">
+<data key="label">Thieves in High Places</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-86.25982</data>
+<data key="y">-108.14359</data>
+</node>
+<node id="101">
+<data key="label">Shrub</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-118.68618</data>
+<data key="y">119.040886</data>
+</node>
+<node id="102">
+<data key="label">Buck Up Suck Up</data>
+<data key="community">l</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-81.72535</data>
+<data key="y">201.10934</data>
+</node>
+<node id="103">
+<data key="label">The Future of Freedom</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">153.16995</data>
+<data key="y">-11.077009</data>
+</node>
+<node id="104">
+<data key="label">Empire</data>
+<data key="community">n</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-136.03198</data>
+<data key="y">172.77805</data>
+</node>
+<edge id="0" source="1" target="0">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1" source="2" target="0">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2" source="3" target="0">
+<data key="weight">1.0</data>
+</edge>
+<edge id="3" source="3" target="1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="4" source="4" target="0">
+<data key="weight">1.0</data>
+</edge>
+<edge id="5" source="4" target="2">
+<data key="weight">1.0</data>
+</edge>
+<edge id="6" source="5" target="0">
+<data key="weight">1.0</data>
+</edge>
+<edge id="7" source="5" target="1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="8" source="5" target="2">
+<data key="weight">1.0</data>
+</edge>
+<edge id="9" source="5" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="10" source="5" target="4">
+<data key="weight">1.0</data>
+</edge>
+<edge id="11" source="6" target="0">
+<data key="weight">1.0</data>
+</edge>
+<edge id="12" source="6" target="1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="13" source="6" target="4">
+<data key="weight">1.0</data>
+</edge>
+<edge id="14" source="6" target="5">
+<data key="weight">1.0</data>
+</edge>
+<edge id="15" source="7" target="2">
+<data key="weight">1.0</data>
+</edge>
+<edge id="16" source="7" target="5">
+<data key="weight">1.0</data>
+</edge>
+<edge id="17" source="7" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="18" source="8" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="19" source="9" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="20" source="9" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="21" source="10" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="22" source="10" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="23" source="10" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="24" source="11" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="25" source="11" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="26" source="11" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="27" source="11" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="28" source="12" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="29" source="12" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="30" source="12" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="31" source="12" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="32" source="12" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="33" source="12" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="34" source="13" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35" source="13" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="36" source="13" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="37" source="13" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="38" source="14" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="39" source="14" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="40" source="14" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="41" source="14" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="42" source="14" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="43" source="14" target="7">
+<data key="weight">1.0</data>
+</edge>
+<edge id="44" source="15" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="45" source="15" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="46" source="15" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="47" source="16" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="48" source="16" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="49" source="16" target="15">
+<data key="weight">1.0</data>
+</edge>
+<edge id="50" source="17" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="51" source="17" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="52" source="17" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="53" source="17" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="54" source="18" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="55" source="18" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="56" source="18" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="57" source="19" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="58" source="19" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="59" source="20" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="60" source="20" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="61" source="20" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="62" source="20" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="63" source="21" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="64" source="21" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="65" source="21" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="66" source="21" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="67" source="22" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="68" source="22" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="69" source="22" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="70" source="22" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="71" source="23" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="72" source="23" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="73" source="23" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="74" source="23" target="21">
+<data key="weight">1.0</data>
+</edge>
+<edge id="75" source="24" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="76" source="24" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="77" source="24" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="78" source="24" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="79" source="24" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="80" source="25" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="81" source="25" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="82" source="25" target="14">
+<data key="weight">1.0</data>
+</edge>
+<edge id="83" source="25" target="22">
+<data key="weight">1.0</data>
+</edge>
+<edge id="84" source="26" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="85" source="26" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="86" source="26" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="87" source="26" target="14">
+<data key="weight">1.0</data>
+</edge>
+<edge id="88" source="26" target="24">
+<data key="weight">1.0</data>
+</edge>
+<edge id="89" source="27" target="3">
+<data key="weight">1.0</data>
+</edge>
+<edge id="90" source="27" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="91" source="27" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="92" source="27" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="93" source="27" target="23">
+<data key="weight">1.0</data>
+</edge>
+<edge id="94" source="28" target="4">
+<data key="weight">1.0</data>
+</edge>
+<edge id="95" source="29" target="4">
+<data key="weight">1.0</data>
+</edge>
+<edge id="96" source="29" target="6">
+<data key="weight">1.0</data>
+</edge>
+<edge id="97" source="29" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="98" source="29" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="99" source="30" target="4">
+<data key="weight">1.0</data>
+</edge>
+<edge id="100" source="30" target="7">
+<data key="weight">1.0</data>
+</edge>
+<edge id="101" source="31" target="4">
+<data key="weight">1.0</data>
+</edge>
+<edge id="102" source="31" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="103" source="32" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="104" source="32" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="105" source="32" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="106" source="32" target="23">
+<data key="weight">1.0</data>
+</edge>
+<edge id="107" source="33" target="32">
+<data key="weight">1.0</data>
+</edge>
+<edge id="108" source="33" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="109" source="33" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="110" source="33" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="111" source="33" target="23">
+<data key="weight">1.0</data>
+</edge>
+<edge id="112" source="35" target="34">
+<data key="weight">1.0</data>
+</edge>
+<edge id="113" source="35" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="114" source="35" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="115" source="36" target="34">
+<data key="weight">1.0</data>
+</edge>
+<edge id="116" source="36" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="117" source="36" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="118" source="37" target="34">
+<data key="weight">1.0</data>
+</edge>
+<edge id="119" source="37" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="120" source="37" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="121" source="37" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="122" source="37" target="33">
+<data key="weight">1.0</data>
+</edge>
+<edge id="123" source="38" target="34">
+<data key="weight">1.0</data>
+</edge>
+<edge id="124" source="38" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="125" source="38" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="126" source="38" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="127" source="38" target="37">
+<data key="weight">1.0</data>
+</edge>
+<edge id="128" source="38" target="33">
+<data key="weight">1.0</data>
+</edge>
+<edge id="129" source="39" target="34">
+<data key="weight">1.0</data>
+</edge>
+<edge id="130" source="39" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="131" source="39" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="132" source="39" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="133" source="39" target="38">
+<data key="weight">1.0</data>
+</edge>
+<edge id="134" source="39" target="33">
+<data key="weight">1.0</data>
+</edge>
+<edge id="135" source="40" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="136" source="40" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="137" source="40" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="138" source="40" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="139" source="40" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="140" source="40" target="22">
+<data key="weight">1.0</data>
+</edge>
+<edge id="141" source="40" target="39">
+<data key="weight">1.0</data>
+</edge>
+<edge id="142" source="40" target="24">
+<data key="weight">1.0</data>
+</edge>
+<edge id="143" source="40" target="25">
+<data key="weight">1.0</data>
+</edge>
+<edge id="144" source="40" target="26">
+<data key="weight">1.0</data>
+</edge>
+<edge id="145" source="40" target="27">
+<data key="weight">1.0</data>
+</edge>
+<edge id="146" source="41" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="147" source="41" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="148" source="41" target="40">
+<data key="weight">1.0</data>
+</edge>
+<edge id="149" source="41" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="150" source="41" target="36">
+<data key="weight">1.0</data>
+</edge>
+<edge id="151" source="41" target="27">
+<data key="weight">1.0</data>
+</edge>
+<edge id="152" source="42" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="153" source="42" target="40">
+<data key="weight">1.0</data>
+</edge>
+<edge id="154" source="42" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="155" source="42" target="39">
+<data key="weight">1.0</data>
+</edge>
+<edge id="156" source="43" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="157" source="43" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="158" source="43" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="159" source="43" target="42">
+<data key="weight">1.0</data>
+</edge>
+<edge id="160" source="44" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="161" source="44" target="40">
+<data key="weight">1.0</data>
+</edge>
+<edge id="162" source="44" target="35">
+<data key="weight">1.0</data>
+</edge>
+<edge id="163" source="44" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="164" source="44" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="165" source="45" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="166" source="45" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="167" source="45" target="40">
+<data key="weight">1.0</data>
+</edge>
+<edge id="168" source="45" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="169" source="45" target="26">
+<data key="weight">1.0</data>
+</edge>
+<edge id="170" source="46" target="8">
+<data key="weight">1.0</data>
+</edge>
+<edge id="171" source="46" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="172" source="47" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="173" source="47" target="40">
+<data key="weight">1.0</data>
+</edge>
+<edge id="174" source="47" target="41">
+<data key="weight">1.0</data>
+</edge>
+<edge id="175" source="47" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="176" source="47" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="177" source="47" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="178" source="47" target="42">
+<data key="weight">1.0</data>
+</edge>
+<edge id="179" source="47" target="36">
+<data key="weight">1.0</data>
+</edge>
+<edge id="180" source="47" target="37">
+<data key="weight">1.0</data>
+</edge>
+<edge id="181" source="47" target="17">
+<data key="weight">1.0</data>
+</edge>
+<edge id="182" source="47" target="33">
+<data key="weight">1.0</data>
+</edge>
+<edge id="183" source="47" target="45">
+<data key="weight">1.0</data>
+</edge>
+<edge id="184" source="47" target="46">
+<data key="weight">1.0</data>
+</edge>
+<edge id="185" source="47" target="23">
+<data key="weight">1.0</data>
+</edge>
+<edge id="186" source="47" target="24">
+<data key="weight">1.0</data>
+</edge>
+<edge id="187" source="47" target="26">
+<data key="weight">1.0</data>
+</edge>
+<edge id="188" source="47" target="27">
+<data key="weight">1.0</data>
+</edge>
+<edge id="189" source="48" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="190" source="48" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="191" source="49" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="192" source="49" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="193" source="49" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="194" source="49" target="48">
+<data key="weight">1.0</data>
+</edge>
+<edge id="195" source="50" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="196" source="50" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="197" source="51" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="198" source="52" target="9">
+<data key="weight">1.0</data>
+</edge>
+<edge id="199" source="52" target="22">
+<data key="weight">1.0</data>
+</edge>
+<edge id="200" source="52" target="51">
+<data key="weight">1.0</data>
+</edge>
+<edge id="201" source="53" target="40">
+<data key="weight">1.0</data>
+</edge>
+<edge id="202" source="53" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="203" source="53" target="24">
+<data key="weight">1.0</data>
+</edge>
+<edge id="204" source="53" target="26">
+<data key="weight">1.0</data>
+</edge>
+<edge id="205" source="54" target="40">
+<data key="weight">1.0</data>
+</edge>
+<edge id="206" source="54" target="41">
+<data key="weight">1.0</data>
+</edge>
+<edge id="207" source="54" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="208" source="54" target="47">
+<data key="weight">1.0</data>
+</edge>
+<edge id="209" source="54" target="23">
+<data key="weight">1.0</data>
+</edge>
+<edge id="210" source="54" target="27">
+<data key="weight">1.0</data>
+</edge>
+<edge id="211" source="55" target="10">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212" source="55" target="12">
+<data key="weight">1.0</data>
+</edge>
+<edge id="213" source="55" target="15">
+<data key="weight">1.0</data>
+</edge>
+<edge id="214" source="55" target="19">
+<data key="weight">1.0</data>
+</edge>
+<edge id="215" source="56" target="11">
+<data key="weight">1.0</data>
+</edge>
+<edge id="216" source="56" target="19">
+<data key="weight">1.0</data>
+</edge>
+<edge id="217" source="56" target="43">
+<data key="weight">1.0</data>
+</edge>
+<edge id="218" source="57" target="13">
+<data key="weight">1.0</data>
+</edge>
+<edge id="219" source="57" target="56">
+<data key="weight">1.0</data>
+</edge>
+<edge id="220" source="57" target="20">
+<data key="weight">1.0</data>
+</edge>
+<edge id="221" source="57" target="48">
+<data key="weight">1.0</data>
+</edge>
+<edge id="222" source="57" target="49">
+<data key="weight">1.0</data>
+</edge>
+<edge id="223" source="58" target="14">
+<data key="weight">1.0</data>
+</edge>
+<edge id="224" source="58" target="7">
+<data key="weight">1.0</data>
+</edge>
+<edge id="225" source="58" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="226" source="58" target="49">
+<data key="weight">1.0</data>
+</edge>
+<edge id="227" source="58" target="50">
+<data key="weight">1.0</data>
+</edge>
+<edge id="228" source="58" target="51">
+<data key="weight">1.0</data>
+</edge>
+<edge id="229" source="58" target="52">
+<data key="weight">1.0</data>
+</edge>
+<edge id="230" source="60" target="59">
+<data key="weight">1.0</data>
+</edge>
+<edge id="231" source="61" target="59">
+<data key="weight">1.0</data>
+</edge>
+<edge id="232" source="62" target="59">
+<data key="weight">1.0</data>
+</edge>
+<edge id="233" source="62" target="60">
+<data key="weight">1.0</data>
+</edge>
+<edge id="234" source="63" target="59">
+<data key="weight">1.0</data>
+</edge>
+<edge id="235" source="63" target="60">
+<data key="weight">1.0</data>
+</edge>
+<edge id="236" source="63" target="62">
+<data key="weight">1.0</data>
+</edge>
+<edge id="237" source="64" target="58">
+<data key="weight">1.0</data>
+</edge>
+<edge id="238" source="64" target="51">
+<data key="weight">1.0</data>
+</edge>
+<edge id="239" source="64" target="52">
+<data key="weight">1.0</data>
+</edge>
+<edge id="240" source="65" target="64">
+<data key="weight">1.0</data>
+</edge>
+<edge id="241" source="65" target="58">
+<data key="weight">1.0</data>
+</edge>
+<edge id="242" source="65" target="51">
+<data key="weight">1.0</data>
+</edge>
+<edge id="243" source="66" target="64">
+<data key="weight">1.0</data>
+</edge>
+<edge id="244" source="66" target="28">
+<data key="weight">1.0</data>
+</edge>
+<edge id="245" source="66" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="246" source="67" target="64">
+<data key="weight">1.0</data>
+</edge>
+<edge id="247" source="67" target="65">
+<data key="weight">1.0</data>
+</edge>
+<edge id="248" source="67" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="249" source="67" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="250" source="68" target="64">
+<data key="weight">1.0</data>
+</edge>
+<edge id="251" source="68" target="58">
+<data key="weight">1.0</data>
+</edge>
+<edge id="252" source="68" target="65">
+<data key="weight">1.0</data>
+</edge>
+<edge id="253" source="69" target="64">
+<data key="weight">1.0</data>
+</edge>
+<edge id="254" source="69" target="58">
+<data key="weight">1.0</data>
+</edge>
+<edge id="255" source="69" target="65">
+<data key="weight">1.0</data>
+</edge>
+<edge id="256" source="69" target="51">
+<data key="weight">1.0</data>
+</edge>
+<edge id="257" source="70" target="64">
+<data key="weight">1.0</data>
+</edge>
+<edge id="258" source="70" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="259" source="70" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="260" source="71" target="7">
+<data key="weight">1.0</data>
+</edge>
+<edge id="261" source="71" target="68">
+<data key="weight">1.0</data>
+</edge>
+<edge id="262" source="71" target="70">
+<data key="weight">1.0</data>
+</edge>
+<edge id="263" source="72" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="264" source="72" target="28">
+<data key="weight">1.0</data>
+</edge>
+<edge id="265" source="72" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="266" source="72" target="49">
+<data key="weight">1.0</data>
+</edge>
+<edge id="267" source="72" target="70">
+<data key="weight">1.0</data>
+</edge>
+<edge id="268" source="73" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="269" source="73" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="270" source="73" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="271" source="73" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="272" source="73" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="273" source="74" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="274" source="74" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="275" source="74" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="276" source="74" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="277" source="74" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="278" source="74" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="279" source="75" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="280" source="75" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="281" source="75" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="282" source="75" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="283" source="75" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="284" source="75" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="285" source="75" target="70">
+<data key="weight">1.0</data>
+</edge>
+<edge id="286" source="76" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="287" source="76" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="288" source="76" target="75">
+<data key="weight">1.0</data>
+</edge>
+<edge id="289" source="76" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="290" source="76" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="291" source="76" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="292" source="76" target="49">
+<data key="weight">1.0</data>
+</edge>
+<edge id="293" source="76" target="53">
+<data key="weight">1.0</data>
+</edge>
+<edge id="294" source="77" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="295" source="77" target="75">
+<data key="weight">1.0</data>
+</edge>
+<edge id="296" source="77" target="58">
+<data key="weight">1.0</data>
+</edge>
+<edge id="297" source="77" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="298" source="77" target="19">
+<data key="weight">1.0</data>
+</edge>
+<edge id="299" source="77" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="300" source="77" target="76">
+<data key="weight">1.0</data>
+</edge>
+<edge id="301" source="78" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="302" source="78" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="303" source="78" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="304" source="78" target="75">
+<data key="weight">1.0</data>
+</edge>
+<edge id="305" source="78" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="306" source="79" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="307" source="79" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="308" source="79" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="309" source="79" target="75">
+<data key="weight">1.0</data>
+</edge>
+<edge id="310" source="79" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="311" source="80" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="312" source="80" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="313" source="80" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="314" source="80" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="315" source="81" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="316" source="82" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="317" source="82" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="318" source="82" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="319" source="82" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="320" source="82" target="75">
+<data key="weight">1.0</data>
+</edge>
+<edge id="321" source="82" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="322" source="82" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="323" source="82" target="76">
+<data key="weight">1.0</data>
+</edge>
+<edge id="324" source="83" target="71">
+<data key="weight">1.0</data>
+</edge>
+<edge id="325" source="83" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="326" source="83" target="75">
+<data key="weight">1.0</data>
+</edge>
+<edge id="327" source="83" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="328" source="83" target="76">
+<data key="weight">1.0</data>
+</edge>
+<edge id="329" source="84" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="330" source="84" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="331" source="84" target="75">
+<data key="weight">1.0</data>
+</edge>
+<edge id="332" source="84" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="333" source="84" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="334" source="84" target="60">
+<data key="weight">1.0</data>
+</edge>
+<edge id="335" source="84" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="336" source="84" target="62">
+<data key="weight">1.0</data>
+</edge>
+<edge id="337" source="84" target="76">
+<data key="weight">1.0</data>
+</edge>
+<edge id="338" source="84" target="79">
+<data key="weight">1.0</data>
+</edge>
+<edge id="339" source="84" target="81">
+<data key="weight">1.0</data>
+</edge>
+<edge id="340" source="84" target="82">
+<data key="weight">1.0</data>
+</edge>
+<edge id="341" source="84" target="83">
+<data key="weight">1.0</data>
+</edge>
+<edge id="342" source="85" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="343" source="85" target="7">
+<data key="weight">1.0</data>
+</edge>
+<edge id="344" source="85" target="58">
+<data key="weight">1.0</data>
+</edge>
+<edge id="345" source="85" target="65">
+<data key="weight">1.0</data>
+</edge>
+<edge id="346" source="85" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="347" source="86" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="348" source="86" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="349" source="86" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="350" source="86" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="351" source="86" target="60">
+<data key="weight">1.0</data>
+</edge>
+<edge id="352" source="86" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="353" source="86" target="61">
+<data key="weight">1.0</data>
+</edge>
+<edge id="354" source="86" target="76">
+<data key="weight">1.0</data>
+</edge>
+<edge id="355" source="86" target="81">
+<data key="weight">1.0</data>
+</edge>
+<edge id="356" source="87" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="357" source="87" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="358" source="87" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="359" source="87" target="83">
+<data key="weight">1.0</data>
+</edge>
+<edge id="360" source="88" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="361" source="88" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="362" source="88" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="363" source="88" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="364" source="89" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="365" source="89" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="366" source="89" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="367" source="89" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="368" source="89" target="86">
+<data key="weight">1.0</data>
+</edge>
+<edge id="369" source="89" target="88">
+<data key="weight">1.0</data>
+</edge>
+<edge id="370" source="90" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="371" source="90" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="372" source="90" target="70">
+<data key="weight">1.0</data>
+</edge>
+<edge id="373" source="91" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="374" source="91" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="375" source="91" target="75">
+<data key="weight">1.0</data>
+</edge>
+<edge id="376" source="91" target="31">
+<data key="weight">1.0</data>
+</edge>
+<edge id="377" source="91" target="90">
+<data key="weight">1.0</data>
+</edge>
+<edge id="378" source="91" target="79">
+<data key="weight">1.0</data>
+</edge>
+<edge id="379" source="92" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="380" source="92" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="381" source="92" target="75">
+<data key="weight">1.0</data>
+</edge>
+<edge id="382" source="93" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="383" source="93" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="384" source="93" target="86">
+<data key="weight">1.0</data>
+</edge>
+<edge id="385" source="93" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="386" source="94" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="387" source="94" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="388" source="94" target="93">
+<data key="weight">1.0</data>
+</edge>
+<edge id="389" source="95" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="390" source="95" target="94">
+<data key="weight">1.0</data>
+</edge>
+<edge id="391" source="95" target="61">
+<data key="weight">1.0</data>
+</edge>
+<edge id="392" source="96" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="393" source="96" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="394" source="96" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="395" source="96" target="94">
+<data key="weight">1.0</data>
+</edge>
+<edge id="396" source="97" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="397" source="97" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="398" source="97" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="399" source="97" target="86">
+<data key="weight">1.0</data>
+</edge>
+<edge id="400" source="97" target="96">
+<data key="weight">1.0</data>
+</edge>
+<edge id="401" source="97" target="81">
+<data key="weight">1.0</data>
+</edge>
+<edge id="402" source="98" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="403" source="98" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="404" source="98" target="87">
+<data key="weight">1.0</data>
+</edge>
+<edge id="405" source="98" target="91">
+<data key="weight">1.0</data>
+</edge>
+<edge id="406" source="99" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="407" source="99" target="74">
+<data key="weight">1.0</data>
+</edge>
+<edge id="408" source="99" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="409" source="99" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="410" source="99" target="93">
+<data key="weight">1.0</data>
+</edge>
+<edge id="411" source="99" target="60">
+<data key="weight">1.0</data>
+</edge>
+<edge id="412" source="99" target="59">
+<data key="weight">1.0</data>
+</edge>
+<edge id="413" source="99" target="30">
+<data key="weight">1.0</data>
+</edge>
+<edge id="414" source="99" target="62">
+<data key="weight">1.0</data>
+</edge>
+<edge id="415" source="99" target="63">
+<data key="weight">1.0</data>
+</edge>
+<edge id="416" source="99" target="90">
+<data key="weight">1.0</data>
+</edge>
+<edge id="417" source="100" target="73">
+<data key="weight">1.0</data>
+</edge>
+<edge id="418" source="100" target="66">
+<data key="weight">1.0</data>
+</edge>
+<edge id="419" source="100" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="420" source="100" target="86">
+<data key="weight">1.0</data>
+</edge>
+<edge id="421" source="100" target="96">
+<data key="weight">1.0</data>
+</edge>
+<edge id="422" source="100" target="98">
+<data key="weight">1.0</data>
+</edge>
+<edge id="423" source="100" target="99">
+<data key="weight">1.0</data>
+</edge>
+<edge id="424" source="100" target="62">
+<data key="weight">1.0</data>
+</edge>
+<edge id="425" source="100" target="79">
+<data key="weight">1.0</data>
+</edge>
+<edge id="426" source="100" target="91">
+<data key="weight">1.0</data>
+</edge>
+<edge id="427" source="100" target="83">
+<data key="weight">1.0</data>
+</edge>
+<edge id="428" source="101" target="84">
+<data key="weight">1.0</data>
+</edge>
+<edge id="429" source="101" target="86">
+<data key="weight">1.0</data>
+</edge>
+<edge id="430" source="101" target="94">
+<data key="weight">1.0</data>
+</edge>
+<edge id="431" source="101" target="100">
+<data key="weight">1.0</data>
+</edge>
+<edge id="432" source="101" target="61">
+<data key="weight">1.0</data>
+</edge>
+<edge id="433" source="102" target="93">
+<data key="weight">1.0</data>
+</edge>
+<edge id="434" source="102" target="94">
+<data key="weight">1.0</data>
+</edge>
+<edge id="435" source="102" target="95">
+<data key="weight">1.0</data>
+</edge>
+<edge id="436" source="102" target="46">
+<data key="weight">1.0</data>
+</edge>
+<edge id="437" source="103" target="67">
+<data key="weight">1.0</data>
+</edge>
+<edge id="438" source="104" target="67">
+<data key="weight">1.0</data>
+</edge>
+<edge id="439" source="104" target="69">
+<data key="weight">1.0</data>
+</edge>
+<edge id="440" source="104" target="103">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

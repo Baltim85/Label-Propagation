@@ -1,0 +1,6166 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<graph edgedefault="undirected">
+<node id="30">
+<data key="label">ALBERT, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">62.286</data>
+<data key="y">-180.88843</data>
+</node>
+<node id="31">
+<data key="label">ALBERT, I</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">90.210075</data>
+<data key="y">-175.71223</data>
+</node>
+<node id="32">
+<data key="label">NAKARADO, G</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">76.53323</data>
+<data key="y">-177.09723</data>
+</node>
+<node id="33">
+<data key="label">BARABASI, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">41.99905</data>
+<data key="y">-195.70326</data>
+</node>
+<node id="34">
+<data key="label">JEONG, H</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">36.922184</data>
+<data key="y">-170.07889</data>
+</node>
+<node id="44">
+<data key="label">ALEKSIEJUK, A</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">165.47148</data>
+<data key="y">-37.37361</data>
+</node>
+<node id="45">
+<data key="label">HOLYST, J</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">181.18593</data>
+<data key="y">-36.74029</data>
+</node>
+<node id="46">
+<data key="label">STAUFFER, D</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">149.93391</data>
+<data key="y">-26.899261</data>
+</node>
+<node id="47">
+<data key="label">ALLARIA, E</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-93.584946</data>
+<data key="y">273.11157</data>
+</node>
+<node id="48">
+<data key="label">ARECCHI, F</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-113.656296</data>
+<data key="y">256.2808</data>
+</node>
+<node id="49">
+<data key="label">DIGARBO, A</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-98.04808</data>
+<data key="y">259.14844</data>
+</node>
+<node id="50">
+<data key="label">MEUCCI, R</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-108.136925</data>
+<data key="y">271.26025</data>
+</node>
+<node id="51">
+<data key="label">ALMAAS, E</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">75.39454</data>
+<data key="y">-187.63722</data>
+</node>
+<node id="52">
+<data key="label">KOVACS, B</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">52.9179</data>
+<data key="y">-207.64897</data>
+</node>
+<node id="53">
+<data key="label">VICSEK, T</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">11.468996</data>
+<data key="y">-204.33176</data>
+</node>
+<node id="54">
+<data key="label">OLTVAI, Z</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">36.415173</data>
+<data key="y">-210.8879</data>
+</node>
+<node id="55">
+<data key="label">KRAPIVSKY, P</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">93.63681</data>
+<data key="y">-142.38762</data>
+</node>
+<node id="56">
+<data key="label">REDNER, S</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">92.15976</data>
+<data key="y">-156.68686</data>
+</node>
+<node id="57">
+<data key="label">KULKARNI, R</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">88.13865</data>
+<data key="y">-203.63983</data>
+</node>
+<node id="58">
+<data key="label">STROUD, D</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">91.13832</data>
+<data key="y">-190.16443</data>
+</node>
+<node id="69">
+<data key="label">AMARAL, L</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-79.13735</data>
+<data key="y">-9.680017</data>
+</node>
+<node id="70">
+<data key="label">SCALA, A</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-85.19016</data>
+<data key="y">3.0844483</data>
+</node>
+<node id="71">
+<data key="label">BARTHELEMY, M</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-81.33546</data>
+<data key="y">16.870005</data>
+</node>
+<node id="72">
+<data key="label">STANLEY, H</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-89.39225</data>
+<data key="y">-23.379555</data>
+</node>
+<node id="77">
+<data key="label">ANCELMEYERS, L</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">38.565098</data>
+<data key="y">21.927586</data>
+</node>
+<node id="78">
+<data key="label">NEWMAN, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">65.97329</data>
+<data key="y">8.042934</data>
+</node>
+<node id="79">
+<data key="label">MARTIN, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">36.536846</data>
+<data key="y">36.50345</data>
+</node>
+<node id="80">
+<data key="label">SCHRAG, S</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">49.704025</data>
+<data key="y">30.846003</data>
+</node>
+<node id="90">
+<data key="label">ANTAL, T</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">96.49113</data>
+<data key="y">-128.12816</data>
+</node>
+<node id="94">
+<data key="label">ARENAS, A</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-124.050186</data>
+<data key="y">4.2163134</data>
+</node>
+<node id="95">
+<data key="label">CABRALES, A</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-117.48484</data>
+<data key="y">-10.950713</data>
+</node>
+<node id="96">
+<data key="label">DIAZGUILERA, A</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-117.40216</data>
+<data key="y">17.527378</data>
+</node>
+<node id="97">
+<data key="label">GUIMERA, R</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-109.32251</data>
+<data key="y">1.6713376</data>
+</node>
+<node id="98">
+<data key="label">VEGAREDONDO, F</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-131.47246</data>
+<data key="y">-8.907605</data>
+</node>
+<node id="99">
+<data key="label">DANON, L</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-138.97903</data>
+<data key="y">4.6302347</data>
+</node>
+<node id="100">
+<data key="label">GLEISER, P</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-146.44774</data>
+<data key="y">-7.472953</data>
+</node>
+<node id="113">
+<data key="label">BAIESI, M</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">131.91113</data>
+<data key="y">-93.12173</data>
+</node>
+<node id="114">
+<data key="label">PACZUSKI, M</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">134.44151</data>
+<data key="y">-79.43987</data>
+</node>
+<node id="120">
+<data key="label">BAK, P</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">61.76765</data>
+<data key="y">-24.835138</data>
+</node>
+<node id="121">
+<data key="label">SNEPPEN, K</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">72.03518</data>
+<data key="y">-34.506683</data>
+</node>
+<node id="126">
+<data key="label">BANAVAR, J</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-185.15019</data>
+<data key="y">75.07551</data>
+</node>
+<node id="127">
+<data key="label">MARITAN, A</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-171.00414</data>
+<data key="y">62.91073</data>
+</node>
+<node id="128">
+<data key="label">RINALDO, A</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-187.06918</data>
+<data key="y">59.52322</data>
+</node>
+<node id="131">
+<data key="label">BIANCONI, G</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">7.0974503</data>
+<data key="y">-157.10277</data>
+</node>
+<node id="132">
+<data key="label">RAVASZ, E</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">25.864805</data>
+<data key="y">-199.38828</data>
+</node>
+<node id="133">
+<data key="label">NEDA, Z</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">17.488707</data>
+<data key="y">-187.3911</data>
+</node>
+<node id="134">
+<data key="label">SCHUBERT, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">3.0993817</data>
+<data key="y">-190.64716</data>
+</node>
+<node id="135">
+<data key="label">BARAHONA, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-105.99612</data>
+<data key="y">215.53984</data>
+</node>
+<node id="136">
+<data key="label">PECORA, L</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-98.887985</data>
+<data key="y">227.9614</data>
+</node>
+<node id="149">
+<data key="label">BARRAT, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-89.31188</data>
+<data key="y">30.69793</data>
+</node>
+<node id="150">
+<data key="label">PASTORSATORRAS, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-85.01734</data>
+<data key="y">44.563404</data>
+</node>
+<node id="151">
+<data key="label">VESPIGNANI, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-100.02531</data>
+<data key="y">51.5897</data>
+</node>
+<node id="152">
+<data key="label">WEIGT, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-87.27336</data>
+<data key="y">59.22546</data>
+</node>
+<node id="157">
+<data key="label">GONDRAN, B</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-65.09539</data>
+<data key="y">20.084438</data>
+</node>
+<node id="158">
+<data key="label">GUICHARD, E</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-73.29324</data>
+<data key="y">31.313475</data>
+</node>
+<node id="162">
+<data key="label">BATTISTON, S</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-96.762856</data>
+<data key="y">-89.06225</data>
+</node>
+<node id="163">
+<data key="label">CATANZARO, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-105.31764</data>
+<data key="y">-100.342285</data>
+</node>
+<node id="184">
+<data key="label">BENNAIM, E</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">76.092445</data>
+<data key="y">-112.16402</data>
+</node>
+<node id="185">
+<data key="label">FRAUENFELDER, H</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">67.056725</data>
+<data key="y">-88.91404</data>
+</node>
+<node id="186">
+<data key="label">TOROCZKAI, Z</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">91.46338</data>
+<data key="y">-83.251175</data>
+</node>
+<node id="190">
+<data key="label">BERLOW, E</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">62.38326</data>
+<data key="y">-218.02107</data>
+</node>
+<node id="191">
+<data key="label">BERNARDES, A</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">176.97878</data>
+<data key="y">-13.826517</data>
+</node>
+<node id="192">
+<data key="label">COSTA, U</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">165.19682</data>
+<data key="y">-22.253056</data>
+</node>
+<node id="193">
+<data key="label">ARAUJO, A</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">163.51065</data>
+<data key="y">-7.3623</data>
+</node>
+<node id="194">
+<data key="label">KERTESZ, J</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">201.10892</data>
+<data key="y">-2.6800919</data>
+</node>
+<node id="203">
+<data key="label">CAPOCCI, A</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-51.321762</data>
+<data key="y">-100.19647</data>
+</node>
+<node id="216">
+<data key="label">BOCCALETTI, S</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-132.28664</data>
+<data key="y">231.1028</data>
+</node>
+<node id="217">
+<data key="label">BRAGARD, J</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-147.76997</data>
+<data key="y">236.36034</data>
+</node>
+<node id="218">
+<data key="label">MANCINI, H</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-137.68486</data>
+<data key="y">246.99106</data>
+</node>
+<node id="219">
+<data key="label">KURTHS, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-141.91095</data>
+<data key="y">297.76492</data>
+</node>
+<node id="220">
+<data key="label">VALLADARES, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-144.72925</data>
+<data key="y">260.80002</data>
+</node>
+<node id="221">
+<data key="label">OSIPOV, G</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-138.82668</data>
+<data key="y">280.73337</data>
+</node>
+<node id="222">
+<data key="label">ZHOU, C</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-154.41211</data>
+<data key="y">286.79263</data>
+</node>
+<node id="223">
+<data key="label">PELAEZ, A</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-112.550156</data>
+<data key="y">234.24117</data>
+</node>
+<node id="224">
+<data key="label">MAZA, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-129.26418</data>
+<data key="y">259.98215</data>
+</node>
+<node id="225">
+<data key="label">BOGUNA, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-102.50194</data>
+<data key="y">37.12279</data>
+</node>
+<node id="233">
+<data key="label">BONANNO, G</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-94.858864</data>
+<data key="y">-51.661682</data>
+</node>
+<node id="234">
+<data key="label">LILLO, F</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-108.39267</data>
+<data key="y">-47.371582</data>
+</node>
+<node id="235">
+<data key="label">MANTEGNA, R</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-97.14317</data>
+<data key="y">-37.205925</data>
+</node>
+<node id="251">
+<data key="label">MENDOZA, C</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-161.2832</data>
+<data key="y">229.99286</data>
+</node>
+<node id="252">
+<data key="label">HENTSCHEL, H</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-146.92133</data>
+<data key="y">219.92757</data>
+</node>
+<node id="262">
+<data key="label">BRODER, A</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">193.91252</data>
+<data key="y">153.27583</data>
+</node>
+<node id="263">
+<data key="label">KUMAR, R</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">206.15813</data>
+<data key="y">140.13531</data>
+</node>
+<node id="264">
+<data key="label">MAGHOUL, F</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">223.49617</data>
+<data key="y">143.59016</data>
+</node>
+<node id="265">
+<data key="label">RAGHAVAN, P</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">189.95099</data>
+<data key="y">136.7037</data>
+</node>
+<node id="266">
+<data key="label">RAJAGOPALAN, S</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">201.99991</data>
+<data key="y">124.88184</data>
+</node>
+<node id="267">
+<data key="label">STATA, R</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">201.92282</data>
+<data key="y">167.18457</data>
+</node>
+<node id="268">
+<data key="label">TOMKINS, A</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">186.96867</data>
+<data key="y">121.3648</data>
+</node>
+<node id="269">
+<data key="label">WIENER, J</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">213.42572</data>
+<data key="y">156.06465</data>
+</node>
+<node id="276">
+<data key="label">BUCOLO, M</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">240.58997</data>
+<data key="y">-197.32468</data>
+</node>
+<node id="277">
+<data key="label">FORTUNA, L</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">228.03076</data>
+<data key="y">-189.02446</data>
+</node>
+<node id="278">
+<data key="label">LAROSA, M</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">222.304</data>
+<data key="y">-203.64668</data>
+</node>
+<node id="279">
+<data key="label">BUHL, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-15.065439</data>
+<data key="y">83.31401</data>
+</node>
+<node id="280">
+<data key="label">GAUTRAIS, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-27.654594</data>
+<data key="y">72.220024</data>
+</node>
+<node id="281">
+<data key="label">SOLE, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-29.45355</data>
+<data key="y">40.40284</data>
+</node>
+<node id="282">
+<data key="label">KUNTZ, P</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">1.014688</data>
+<data key="y">76.1892</data>
+</node>
+<node id="283">
+<data key="label">VALVERDE, S</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-21.53681</data>
+<data key="y">53.974693</data>
+</node>
+<node id="284">
+<data key="label">DENEUBOURG, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-1.3950983</data>
+<data key="y">56.948063</data>
+</node>
+<node id="285">
+<data key="label">THERAULAZ, G</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-12.631823</data>
+<data key="y">67.58713</data>
+</node>
+<node id="301">
+<data key="label">CALDARELLI, G</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-77.79054</data>
+<data key="y">-64.14321</data>
+</node>
+<node id="302">
+<data key="label">DELOSRIOS, P</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-65.61429</data>
+<data key="y">-79.47586</data>
+</node>
+<node id="303">
+<data key="label">MUNOZ, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-78.72658</data>
+<data key="y">-106.48018</data>
+</node>
+<node id="304">
+<data key="label">COCCETTI, F</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-61.83818</data>
+<data key="y">-64.95505</data>
+</node>
+<node id="305">
+<data key="label">CALLAWAY, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">99.85025</data>
+<data key="y">23.61379</data>
+</node>
+<node id="306">
+<data key="label">HOPCROFT, J</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">114.26874</data>
+<data key="y">39.713863</data>
+</node>
+<node id="307">
+<data key="label">KLEINBERG, J</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">142.0288</data>
+<data key="y">82.78582</data>
+</node>
+<node id="308">
+<data key="label">STROGATZ, S</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">87.28562</data>
+<data key="y">31.989304</data>
+</node>
+<node id="309">
+<data key="label">WATTS, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">74.3835</data>
+<data key="y">24.731817</data>
+</node>
+<node id="310">
+<data key="label">CAMACHO, J</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-97.2068</data>
+<data key="y">9.768771</data>
+</node>
+<node id="316">
+<data key="label">SERVEDIO, V</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-79.36568</data>
+<data key="y">-88.0727</data>
+</node>
+<node id="317">
+<data key="label">COLAIORI, F</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-65.73964</data>
+<data key="y">-94.58924</data>
+</node>
+<node id="326">
+<data key="label">CARUSO, F</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">147.71646</data>
+<data key="y">-146.02544</data>
+</node>
+<node id="327">
+<data key="label">LATORA, V</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">164.51176</data>
+<data key="y">-146.88405</data>
+</node>
+<node id="328">
+<data key="label">RAPISARDA, A</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">154.78362</data>
+<data key="y">-159.02666</data>
+</node>
+<node id="329">
+<data key="label">TADIC, B</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">134.15822</data>
+<data key="y">-151.69827</data>
+</node>
+<node id="330">
+<data key="label">CASTELLANO, C</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-138.17908</data>
+<data key="y">81.7864</data>
+</node>
+<node id="331">
+<data key="label">VILONE, D</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-129.13187</data>
+<data key="y">69.599724</data>
+</node>
+<node id="342">
+<data key="label">CHATE, H</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-105.865715</data>
+<data key="y">314.76324</data>
+</node>
+<node id="343">
+<data key="label">PIKOVSKY, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-128.75777</data>
+<data key="y">310.57513</data>
+</node>
+<node id="344">
+<data key="label">RUDZICK, O</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-117.988304</data>
+<data key="y">322.1572</data>
+</node>
+<node id="345">
+<data key="label">CHAVEZ, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-142.74525</data>
+<data key="y">204.91017</data>
+</node>
+<node id="346">
+<data key="label">HWANG, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-129.63814</data>
+<data key="y">195.15053</data>
+</node>
+<node id="347">
+<data key="label">AMANN, A</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-130.07664</data>
+<data key="y">211.85905</data>
+</node>
+<node id="370">
+<data key="label">CLAUSET, A</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">74.75707</data>
+<data key="y">-16.344738</data>
+</node>
+<node id="371">
+<data key="label">MOORE, C</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">78.44882</data>
+<data key="y">-2.4761796</data>
+</node>
+<node id="375">
+<data key="label">COHEN, R</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">205</data>
+<data key="b">255</data>
+<data key="x">44.798927</data>
+<data key="y">-265.63153</data>
+</node>
+<node id="376">
+<data key="label">BENAVRAHAM, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">205</data>
+<data key="b">255</data>
+<data key="x">56.55546</data>
+<data key="y">-257.23474</data>
+</node>
+<node id="377">
+<data key="label">HAVLIN, S</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">205</data>
+<data key="b">255</data>
+<data key="x">57.97049</data>
+<data key="y">-271.77454</data>
+</node>
+<node id="378">
+<data key="label">EREZ, K</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">205</data>
+<data key="b">255</data>
+<data key="x">38.71578</data>
+<data key="y">-279.18704</data>
+</node>
+<node id="401">
+<data key="label">COSENZA, S</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">200.21204</data>
+<data key="y">-201.85857</data>
+</node>
+<node id="402">
+<data key="label">CRUCITTI, P</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">171.80914</data>
+<data key="y">-162.00679</data>
+</node>
+<node id="403">
+<data key="label">FRASCA, M</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">212.57072</data>
+<data key="y">-191.92668</data>
+</node>
+<node id="404">
+<data key="label">STAGNI, C</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">214.32874</data>
+<data key="y">-175.95656</data>
+</node>
+<node id="405">
+<data key="label">USAI, L</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">198.47696</data>
+<data key="y">-184.22224</data>
+</node>
+<node id="416">
+<data key="label">MARCHIORI, M</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">179.65166</data>
+<data key="y">-144.18884</data>
+</node>
+<node id="417">
+<data key="label">PORTA, S</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">170.03188</data>
+<data key="y">-133.32257</data>
+</node>
+<node id="428">
+<data key="label">DAFONTOURACOSTA, L</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">148.4838</data>
+<data key="y">-11.622932</data>
+</node>
+<node id="429">
+<data key="label">DIAMBRA, L</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">150.22206</data>
+<data key="y">2.3595293</data>
+</node>
+<node id="442">
+<data key="label">DEARCANGELIS, L</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-127.10632</data>
+<data key="y">-54.727497</data>
+</node>
+<node id="443">
+<data key="label">HERRMANN, H</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-133.4523</data>
+<data key="y">-41.983845</data>
+</node>
+<node id="450">
+<data key="label">DEFRAYSSEIX, H</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">7.994774</data>
+<data key="y">88.769226</data>
+</node>
+<node id="460">
+<data key="label">DELUCIA, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-137.09648</data>
+<data key="y">-96.7068</data>
+</node>
+<node id="461">
+<data key="label">BOTTACCIO, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-122.32312</data>
+<data key="y">-96.83089</data>
+</node>
+<node id="462">
+<data key="label">MONTUORI, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-130.09657</data>
+<data key="y">-83.622856</data>
+</node>
+<node id="463">
+<data key="label">PIETRONERO, L</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-113.37868</data>
+<data key="y">-82.38875</data>
+</node>
+<node id="464">
+<data key="label">DEMENEZES, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">76.28794</data>
+<data key="y">-213.87294</data>
+</node>
+<node id="465">
+<data key="label">MOUKARZEL, C</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">89.21793</data>
+<data key="y">-219.21675</data>
+</node>
+<node id="466">
+<data key="label">PENNA, T</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">87.26753</data>
+<data key="y">-233.08566</data>
+</node>
+<node id="472">
+<data key="label">DEMOURA, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-194.26804</data>
+<data key="y">305.9732</data>
+</node>
+<node id="473">
+<data key="label">MOTTER, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-180.42093</data>
+<data key="y">312.7347</data>
+</node>
+<node id="474">
+<data key="label">GREBOGI, C</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-182.7187</data>
+<data key="y">297.1789</data>
+</node>
+<node id="485">
+<data key="label">DEZSO, Z</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">56.877087</data>
+<data key="y">-194.04245</data>
+</node>
+<node id="488">
+<data key="label">DOBRIN, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">43.917336</data>
+<data key="y">-234.76283</data>
+</node>
+<node id="489">
+<data key="label">BEG, Q</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">32.905766</data>
+<data key="y">-226.01796</data>
+</node>
+<node id="490">
+<data key="label">DODDS, P</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">63.808727</data>
+<data key="y">36.066788</data>
+</node>
+<node id="491">
+<data key="label">MUHAMAD, R</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">65.82841</data>
+<data key="y">50.96716</data>
+</node>
+<node id="492">
+<data key="label">ROTHMAN, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">52.76521</data>
+<data key="y">45.34647</data>
+</node>
+<node id="493">
+<data key="label">SABEL, C</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">76.52807</data>
+<data key="y">41.960526</data>
+</node>
+<node id="499">
+<data key="label">DONETTI, L</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-69.70497</data>
+<data key="y">-117.64028</data>
+</node>
+<node id="500">
+<data key="label">DOROGOVTSEV, S</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-68.908005</data>
+<data key="y">70.25765</data>
+</node>
+<node id="501">
+<data key="label">GOLTSEV, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-58.38085</data>
+<data key="y">84.492</data>
+</node>
+<node id="502">
+<data key="label">MENDES, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-72.13095</data>
+<data key="y">83.77834</data>
+</node>
+<node id="503">
+<data key="label">SAMUKHIN, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-54.961327</data>
+<data key="y">70.8051</data>
+</node>
+<node id="507">
+<data key="label">DUNNE, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">58.019802</data>
+<data key="y">-231.53004</data>
+</node>
+<node id="508">
+<data key="label">WILLIAMS, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">72.0493</data>
+<data key="y">-228.33237</data>
+</node>
+<node id="509">
+<data key="label">MARTINEZ, N</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">67.79628</data>
+<data key="y">-242.13255</data>
+</node>
+<node id="514">
+<data key="label">ECHENIQUE, P</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-116.342186</data>
+<data key="y">76.84803</data>
+</node>
+<node id="515">
+<data key="label">GOMEZGARDENES, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-117.70459</data>
+<data key="y">90.92583</data>
+</node>
+<node id="516">
+<data key="label">MORENO, Y</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-103.832214</data>
+<data key="y">85.909615</data>
+</node>
+<node id="517">
+<data key="label">VAZQUEZ, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-102.73043</data>
+<data key="y">67.36568</data>
+</node>
+<node id="546">
+<data key="label">ERGUN, G</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">109.699776</data>
+<data key="y">-135.2107</data>
+</node>
+<node id="547">
+<data key="label">RODGERS, G</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">120.32626</data>
+<data key="y">-144.61429</data>
+</node>
+<node id="548">
+<data key="label">ERIKSEN, K</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">83.388466</data>
+<data key="y">-52.401676</data>
+</node>
+<node id="549">
+<data key="label">SIMONSEN, I</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">97.62709</data>
+<data key="y">-47.17107</data>
+</node>
+<node id="550">
+<data key="label">MASLOV, S</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">86.30948</data>
+<data key="y">-37.883724</data>
+</node>
+<node id="561">
+<data key="label">FARKAS, I</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">21.45968</data>
+<data key="y">-215.94508</data>
+</node>
+<node id="562">
+<data key="label">DERENYI, I</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">6.087882</data>
+<data key="y">-219.51892</data>
+</node>
+<node id="574">
+<data key="label">FERRERICANCHO, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-14.444335</data>
+<data key="y">40.442284</data>
+</node>
+<node id="575">
+<data key="label">JANSSEN, C</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-19.488277</data>
+<data key="y">26.77974</data>
+</node>
+<node id="576">
+<data key="label">KOHLER, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-5.25207</data>
+<data key="y">29.58609</data>
+</node>
+<node id="585">
+<data key="label">FINK, K</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-89.46286</data>
+<data key="y">241.44249</data>
+</node>
+<node id="586">
+<data key="label">JOHNSON, G</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-74.99965</data>
+<data key="y">238.21294</data>
+</node>
+<node id="587">
+<data key="label">CARROLL, T</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-84.37609</data>
+<data key="y">226.62317</data>
+</node>
+<node id="589">
+<data key="label">FLAKE, G</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">153.95511</data>
+<data key="y">116.302826</data>
+</node>
+<node id="590">
+<data key="label">LAWRENCE, S</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">143.86743</data>
+<data key="y">101.758125</data>
+</node>
+<node id="591">
+<data key="label">GILES, C</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">139.12447</data>
+<data key="y">115.4284</data>
+</node>
+<node id="592">
+<data key="label">COETZEE, F</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">159.10977</data>
+<data key="y">102.242065</data>
+</node>
+<node id="595">
+<data key="label">SPATA, A</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">235.31918</data>
+<data key="y">-211.11945</data>
+</node>
+<node id="596">
+<data key="label">FORTUNATO, S</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">162.15479</data>
+<data key="y">-85.99391</data>
+</node>
+<node id="609">
+<data key="label">FRONCZAK, A</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">196.71892</data>
+<data key="y">-36.894707</data>
+</node>
+<node id="610">
+<data key="label">FRONCZAK, P</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">190.35692</data>
+<data key="y">-23.975271</data>
+</node>
+<node id="611">
+<data key="label">JEDYNAK, M</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">205.01451</data>
+<data key="y">-49.19525</data>
+</node>
+<node id="612">
+<data key="label">SIENKIEWICZ, J</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">190.1457</data>
+<data key="y">-50.8513</data>
+</node>
+<node id="638">
+<data key="label">GARLASCHELLI, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-101.64157</data>
+<data key="y">-70.750046</data>
+</node>
+<node id="639">
+<data key="label">CASTRI, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-88.06267</data>
+<data key="y">-76.19793</data>
+</node>
+<node id="640">
+<data key="label">LOFFREDO, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-115.12743</data>
+<data key="y">-66.109</data>
+</node>
+<node id="641">
+<data key="label">GASTNER, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">60.77176</data>
+<data key="y">22.349644</data>
+</node>
+<node id="646">
+<data key="label">GIRVAN, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">80.28501</data>
+<data key="y">11.761935</data>
+</node>
+<node id="652">
+<data key="label">GOH, K</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">65.449036</data>
+<data key="y">-141.36946</data>
+</node>
+<node id="653">
+<data key="label">GHIM, C</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">77.67972</data>
+<data key="y">-162.79982</data>
+</node>
+<node id="654">
+<data key="label">KAHNG, B</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">52.19646</data>
+<data key="y">-148.55685</data>
+</node>
+<node id="655">
+<data key="label">KIM, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">65.06427</data>
+<data key="y">-155.83766</data>
+</node>
+<node id="656">
+<data key="label">LEE, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">75.949455</data>
+<data key="y">-131.18643</data>
+</node>
+<node id="657">
+<data key="label">OH, E</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">52.745426</data>
+<data key="y">-133.67665</data>
+</node>
+<node id="674">
+<data key="label">FLORIA, L</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-122.213486</data>
+<data key="y">104.38455</data>
+</node>
+<node id="675">
+<data key="label">GONZALES, M</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-151.42424</data>
+<data key="y">-43.137093</data>
+</node>
+<node id="676">
+<data key="label">SOUSA, A</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-163.53436</data>
+<data key="y">-52.831673</data>
+</node>
+<node id="685">
+<data key="label">GORMAN, S</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">101.254814</data>
+<data key="y">-208.58722</data>
+</node>
+<node id="692">
+<data key="label">GREGOIRE, G</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-93.560455</data>
+<data key="y">321.29724</data>
+</node>
+<node id="693">
+<data key="label">GROSS, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-110.71417</data>
+<data key="y">381.02173</data>
+</node>
+<node id="694">
+<data key="label">KUJALA, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-107.90942</data>
+<data key="y">400.1637</data>
+</node>
+<node id="695">
+<data key="label">HAMALAINEN, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-93.81535</data>
+<data key="y">409.9172</data>
+</node>
+<node id="696">
+<data key="label">TIMMERMANN, L</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-96.647</data>
+<data key="y">388.9323</data>
+</node>
+<node id="697">
+<data key="label">SCHNITZLER, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-118.454185</data>
+<data key="y">366.4722</data>
+</node>
+<node id="698">
+<data key="label">SALMELIN, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-121.48783</data>
+<data key="y">393.1808</data>
+</node>
+<node id="700">
+<data key="label">GUARDIOLA, X</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-158.65504</data>
+<data key="y">26.637691</data>
+</node>
+<node id="701">
+<data key="label">LLAS, M</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-144.25768</data>
+<data key="y">27.979023</data>
+</node>
+<node id="702">
+<data key="label">PEREZ, C</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-150.5995</data>
+<data key="y">14.465581</data>
+</node>
+<node id="708">
+<data key="label">GIRALT, F</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-132.57222</data>
+<data key="y">17.664055</data>
+</node>
+<node id="709">
+<data key="label">MOSSA, S</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-95.30038</data>
+<data key="y">-7.556987</data>
+</node>
+<node id="710">
+<data key="label">TURTSCHI, A</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-104.79076</data>
+<data key="y">-18.87986</data>
+</node>
+<node id="715">
+<data key="label">HARI, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-80.52351</data>
+<data key="y">420.10272</data>
+</node>
+<node id="716">
+<data key="label">ILMONIEMI, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-69.26421</data>
+<data key="y">429.81693</data>
+</node>
+<node id="717">
+<data key="label">KNUUTILA, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-93.86167</data>
+<data key="y">428.24933</data>
+</node>
+<node id="718">
+<data key="label">LOUNASMAA, O</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-82.277306</data>
+<data key="y">437.85608</data>
+</node>
+<node id="729">
+<data key="label">HEAGY, J</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-90.99729</data>
+<data key="y">213.7448</data>
+</node>
+<node id="736">
+<data key="label">HERRMANN, C</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-70.26381</data>
+<data key="y">5.533749</data>
+</node>
+<node id="737">
+<data key="label">PROVERO, P</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-56.620502</data>
+<data key="y">8.380462</data>
+</node>
+<node id="738">
+<data key="label">HONG, D</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-115.26332</data>
+<data key="y">-33.205772</data>
+</node>
+<node id="739">
+<data key="label">ROUX, S</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-141.51639</data>
+<data key="y">-53.945324</data>
+</node>
+<node id="756">
+<data key="label">HOLME, P</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">28.572819</data>
+<data key="y">-72.94007</data>
+</node>
+<node id="757">
+<data key="label">EDLING, C</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-46.57582</data>
+<data key="y">-39.97363</data>
+</node>
+<node id="758">
+<data key="label">LILJEROS, F</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-42.188465</data>
+<data key="y">-26.302687</data>
+</node>
+<node id="759">
+<data key="label">GHOSHAL, G</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">51.841774</data>
+<data key="y">-36.45172</data>
+</node>
+<node id="760">
+<data key="label">HUSS, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">23.6729</data>
+<data key="y">-93.024734</data>
+</node>
+<node id="761">
+<data key="label">KIM, B</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">38.430035</data>
+<data key="y">-89.51586</data>
+</node>
+<node id="762">
+<data key="label">YOON, C</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">29.816908</data>
+<data key="y">-116.7375</data>
+</node>
+<node id="763">
+<data key="label">HAN, S</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">19.461601</data>
+<data key="y">-106.92495</data>
+</node>
+<node id="764">
+<data key="label">TRUSINA, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">53.16627</data>
+<data key="y">-55.232796</data>
+</node>
+<node id="765">
+<data key="label">MINNHAGEN, P</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">60.787735</data>
+<data key="y">-68.13311</data>
+</node>
+<node id="770">
+<data key="label">HOLTER, N</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-214.77362</data>
+<data key="y">67.44587</data>
+</node>
+<node id="771">
+<data key="label">MITRA, M</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-200.19568</data>
+<data key="y">71.49584</data>
+</node>
+<node id="772">
+<data key="label">CIEPLAK, M</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-196.1318</data>
+<data key="y">87.46468</data>
+</node>
+<node id="773">
+<data key="label">FEDROFF, N</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-211.28305</data>
+<data key="y">83.3375</data>
+</node>
+<node id="774">
+<data key="label">HONG, H</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">47.740723</data>
+<data key="y">-109.92218</data>
+</node>
+<node id="775">
+<data key="label">CHOI, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">52.315453</data>
+<data key="y">-95.47362</data>
+</node>
+<node id="776">
+<data key="label">PARK, H</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">34.68383</data>
+<data key="y">-103.45608</data>
+</node>
+<node id="788">
+<data key="label">LOPEZRUIZ, R</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-122.38584</data>
+<data key="y">170.62302</data>
+</node>
+<node id="839">
+<data key="label">MASON, S</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">31.536087</data>
+<data key="y">-184.51202</data>
+</node>
+<node id="840">
+<data key="label">TOMBOR, B</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">21.377804</data>
+<data key="y">-173.411</data>
+</node>
+<node id="853">
+<data key="label">JIN, E</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">50.720356</data>
+<data key="y">13.478512</data>
+</node>
+<node id="863">
+<data key="label">JUNG, S</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">42.135635</data>
+<data key="y">-124.44309</data>
+</node>
+<node id="864">
+<data key="label">KIM, S</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">59.257748</data>
+<data key="y">-120.97036</data>
+</node>
+<node id="865">
+<data key="label">PARK, Y</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">37.325314</data>
+<data key="y">-153.99226</data>
+</node>
+<node id="866">
+<data key="label">KALAPALA, V</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">92.849014</data>
+<data key="y">-9.254699</data>
+</node>
+<node id="867">
+<data key="label">SANWALANI, V</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">93.84627</data>
+<data key="y">4.7629323</data>
+</node>
+<node id="892">
+<data key="label">CHUNG, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">51.718327</data>
+<data key="y">-80.093895</data>
+</node>
+<node id="893">
+<data key="label">KIM, J</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">78.71768</data>
+<data key="y">-147.76778</data>
+</node>
+<node id="894">
+<data key="label">KINNEY, R</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">134.73045</data>
+<data key="y">-169.03178</data>
+</node>
+<node id="908">
+<data key="label">KUMAR, S</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">176.51285</data>
+<data key="y">108.95235</data>
+</node>
+<node id="934">
+<data key="label">LEYVRAZ, F</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">106.30191</data>
+<data key="y">-150.46318</data>
+</node>
+<node id="944">
+<data key="label">SIVAKUMAR, D</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">218.7486</data>
+<data key="y">126.94557</data>
+</node>
+<node id="945">
+<data key="label">UPFAL, E</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">211.9855</data>
+<data key="y">112.267456</data>
+</node>
+<node id="955">
+<data key="label">LAHTINEN, J</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">206.97238</data>
+<data key="y">12.729695</data>
+</node>
+<node id="956">
+<data key="label">KASKI, K</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">216.21034</data>
+<data key="y">1.1788948</data>
+</node>
+<node id="963">
+<data key="label">LEONE, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-116.67016</data>
+<data key="y">47.606133</data>
+</node>
+<node id="964">
+<data key="label">ZECCHINA, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-117.10961</data>
+<data key="y">61.680992</data>
+</node>
+<node id="977">
+<data key="label">ABERG, Y</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-59.657955</data>
+<data key="y">-28.939085</data>
+</node>
+<node id="983">
+<data key="label">LIU, Z</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-200.77861</data>
+<data key="y">336.57632</data>
+</node>
+<node id="984">
+<data key="label">LAI, Y</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-191.95634</data>
+<data key="y">323.73355</data>
+</node>
+<node id="985">
+<data key="label">HOPPENSTEADT, F</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-186.39963</data>
+<data key="y">338.30707</data>
+</node>
+<node id="986">
+<data key="label">YE, N</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-212.42981</data>
+<data key="y">328.57455</data>
+</node>
+<node id="1005">
+<data key="label">LUSSEAU, D</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">64.68601</data>
+<data key="y">-6.9201756</data>
+</node>
+<node id="1008">
+<data key="label">MACDONALD, P</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">66.77411</data>
+<data key="y">-203.45213</data>
+</node>
+<node id="1021">
+<data key="label">RIGON, R</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-186.51846</data>
+<data key="y">44.920033</data>
+</node>
+<node id="1022">
+<data key="label">GIACOMETTI, A</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-199.99466</data>
+<data key="y">38.096977</data>
+</node>
+<node id="1023">
+<data key="label">RODRIGUEZITURBE, I</data>
+<data key="size">4.0</data>
+<data key="r">163</data>
+<data key="g">255</data>
+<data key="b">106</data>
+<data key="x">-199.65512</data>
+<data key="y">53.035</data>
+</node>
+<node id="1024">
+<data key="label">MARODI, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">-9.388177</data>
+<data key="y">-215.79716</data>
+</node>
+<node id="1025">
+<data key="label">DOVIDIO, F</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">-8.458984</data>
+<data key="y">-201.85373</data>
+</node>
+<node id="1026">
+<data key="label">MARRO, J</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-98.72836</data>
+<data key="y">-128.695</data>
+</node>
+<node id="1027">
+<data key="label">DICKMAN, R</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-108.64019</data>
+<data key="y">-138.7049</data>
+</node>
+<node id="1030">
+<data key="label">ZALIZNYAK, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">87.392296</data>
+<data key="y">-23.77924</data>
+</node>
+<node id="1039">
+<data key="label">MATTHEWS, P</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">102.26399</data>
+<data key="y">52.521755</data>
+</node>
+<node id="1040">
+<data key="label">MIROLLO, R</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">99.87107</data>
+<data key="y">38.685387</data>
+</node>
+<node id="1041">
+<data key="label">VALLONE, A</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-122.80788</data>
+<data key="y">244.69762</data>
+</node>
+<node id="1081">
+<data key="label">MONTOYA, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-43.21153</data>
+<data key="y">44.364853</data>
+</node>
+<node id="1082">
+<data key="label">MOREIRA, A</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-63.600864</data>
+<data key="y">-13.068404</data>
+</node>
+<node id="1083">
+<data key="label">ANDRADE, J</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-73.296555</data>
+<data key="y">-23.95584</data>
+</node>
+<node id="1086">
+<data key="label">GOMEZ, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-83.29001</data>
+<data key="y">101.18612</data>
+</node>
+<node id="1087">
+<data key="label">PACHECO, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-97.31244</data>
+<data key="y">99.13818</data>
+</node>
+<node id="1088">
+<data key="label">NEKOVEE, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-88.750206</data>
+<data key="y">86.62854</data>
+</node>
+<node id="1089">
+<data key="label">VAZQUEZPRADA, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-108.12498</data>
+<data key="y">108.28935</data>
+</node>
+<node id="1091">
+<data key="label">DASGUPTA, P</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-205.50406</data>
+<data key="y">315.2656</data>
+</node>
+<node id="1092">
+<data key="label">NISHIKAWA, T</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-176.94983</data>
+<data key="y">327.22284</data>
+</node>
+<node id="1121">
+<data key="label">FORREST, S</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">40.788246</data>
+<data key="y">-7.3821545</data>
+</node>
+<node id="1122">
+<data key="label">BALTHROP, J</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">52.891743</data>
+<data key="y">-14.01648</data>
+</node>
+<node id="1123">
+<data key="label">LEICHT, E</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">42.198112</data>
+<data key="y">-25.378727</data>
+</node>
+<node id="1130">
+<data key="label">RHO, K</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">0</data>
+<data key="b">28</data>
+<data key="x">38.157837</data>
+<data key="y">-139.5225</data>
+</node>
+<node id="1135">
+<data key="label">ONNELA, J</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">230.68622</data>
+<data key="y">3.989435</data>
+</node>
+<node id="1136">
+<data key="label">CHAKRABORTI, A</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">232.83827</data>
+<data key="y">-11.138259</data>
+</node>
+<node id="1137">
+<data key="label">KANTO, A</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">218.05753</data>
+<data key="y">-14.344287</data>
+</node>
+<node id="1138">
+<data key="label">JARISARAMAKI, J</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">221.5309</data>
+<data key="y">16.195694</data>
+</node>
+<node id="1145">
+<data key="label">ROSENBLUM, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-143.5685</data>
+<data key="y">314.4211</data>
+</node>
+<node id="1162">
+<data key="label">BASSLER, K</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">112.9112</data>
+<data key="y">-75.55238</data>
+</node>
+<node id="1163">
+<data key="label">CORRAL, A</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">125.505135</data>
+<data key="y">-63.506493</data>
+</node>
+<node id="1172">
+<data key="label">PARK, J</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">52.809483</data>
+<data key="y">-0.019696195</data>
+</node>
+<node id="1177">
+<data key="label">RUBI, M</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-102.237854</data>
+<data key="y">22.872044</data>
+</node>
+<node id="1178">
+<data key="label">SMITH, E</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-57.946037</data>
+<data key="y">39.390583</data>
+</node>
+<node id="1180">
+<data key="label">PENNOCK, D</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">149.45947</data>
+<data key="y">130.89882</data>
+</node>
+<node id="1181">
+<data key="label">GLOVER, E</data>
+<data key="size">4.0</data>
+<data key="r">78</data>
+<data key="g">26</data>
+<data key="b">0</data>
+<data key="x">134.24535</data>
+<data key="y">129.72945</data>
+</node>
+<node id="1182">
+<data key="label">PETERMANNN, T</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-51.51168</data>
+<data key="y">-80.24286</data>
+</node>
+<node id="1189">
+<data key="label">PLUCHINO, A</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">155.41786</data>
+<data key="y">-133.99153</data>
+</node>
+<node id="1190">
+<data key="label">PODANI, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">6.153434</data>
+<data key="y">-174.1603</data>
+</node>
+<node id="1191">
+<data key="label">SZATHMARY, E</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">22.23786</data>
+<data key="y">-158.56845</data>
+</node>
+<node id="1195">
+<data key="label">PORTER, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">38.531673</data>
+<data key="y">6.71115</data>
+</node>
+<node id="1196">
+<data key="label">MUCHA, P</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">25.902132</data>
+<data key="y">13.706091</data>
+</node>
+<node id="1197">
+<data key="label">WARMBRAND, C</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">26.709593</data>
+<data key="y">-1.3811691</data>
+</node>
+<node id="1214">
+<data key="label">RADICCHI, F</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-155.55508</data>
+<data key="y">86.06697</data>
+</node>
+<node id="1215">
+<data key="label">CECCONI, F</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-155.29083</data>
+<data key="y">109.014084</data>
+</node>
+<node id="1216">
+<data key="label">LORETO, V</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-165.25565</data>
+<data key="y">97.56649</data>
+</node>
+<node id="1217">
+<data key="label">PARISI, D</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-145.50053</data>
+<data key="y">97.6749</data>
+</node>
+<node id="1221">
+<data key="label">RAMASCO, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-72.143684</data>
+<data key="y">55.5345</data>
+</node>
+<node id="1228">
+<data key="label">SOMERA, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">29.102057</data>
+<data key="y">-239.96654</data>
+</node>
+<node id="1229">
+<data key="label">MONGRU, D</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">17.592304</data>
+<data key="y">-230.8712</data>
+</node>
+<node id="1239">
+<data key="label">DARBYDOWMAN, K</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">122.80834</data>
+<data key="y">-130.25772</data>
+</node>
+<node id="1255">
+<data key="label">ROSVALL, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">181</data>
+<data key="x">66.98635</data>
+<data key="y">-49.48572</data>
+</node>
+<node id="1263">
+<data key="label">ROZENFELD, A</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">205</data>
+<data key="b">255</data>
+<data key="x">51.99198</data>
+<data key="y">-285.70847</data>
+</node>
+<node id="1282">
+<data key="label">SCHAFER, C</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-115.96868</data>
+<data key="y">301.8968</data>
+</node>
+<node id="1283">
+<data key="label">ABEL, H</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-126.59356</data>
+<data key="y">292.2125</data>
+</node>
+<node id="1295">
+<data key="label">SCHWARTZ, N</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">205</data>
+<data key="b">255</data>
+<data key="x">42.6646</data>
+<data key="y">-250.10156</data>
+</node>
+<node id="1312">
+<data key="label">SHEFI, O</data>
+<data key="size">4.0</data>
+<data key="r">38</data>
+<data key="g">49</data>
+<data key="b">67</data>
+<data key="x">-43.055565</data>
+<data key="y">-286.34622</data>
+</node>
+<node id="1313">
+<data key="label">GOLDING, I</data>
+<data key="size">4.0</data>
+<data key="r">38</data>
+<data key="g">49</data>
+<data key="b">67</data>
+<data key="x">-29.29981</data>
+<data key="y">-292.85703</data>
+</node>
+<node id="1314">
+<data key="label">SEGEV, R</data>
+<data key="size">4.0</data>
+<data key="r">38</data>
+<data key="g">49</data>
+<data key="b">67</data>
+<data key="x">-38.02435</data>
+<data key="y">-272.159</data>
+</node>
+<node id="1315">
+<data key="label">BENJACOB, E</data>
+<data key="size">4.0</data>
+<data key="r">38</data>
+<data key="g">49</data>
+<data key="b">67</data>
+<data key="x">-22.830593</data>
+<data key="y">-260.0584</data>
+</node>
+<node id="1316">
+<data key="label">AYALI, A</data>
+<data key="size">4.0</data>
+<data key="r">38</data>
+<data key="g">49</data>
+<data key="b">67</data>
+<data key="x">-24.129622</data>
+<data key="y">-278.75568</data>
+</node>
+<node id="1341">
+<data key="label">SOFFER, S</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-89.23043</data>
+<data key="y">72.81772</data>
+</node>
+<node id="1342">
+<data key="label">KEPLER, T</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-55.36685</data>
+<data key="y">53.639126</data>
+</node>
+<node id="1343">
+<data key="label">SALAZARCIUDAD, I</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-43.042545</data>
+<data key="y">29.886377</data>
+</node>
+<node id="1344">
+<data key="label">GARCIAFERNANDEZ, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-32.507607</data>
+<data key="y">20.677052</data>
+</node>
+<node id="1347">
+<data key="label">SONG, C</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">205</data>
+<data key="b">255</data>
+<data key="x">66.8274</data>
+<data key="y">-289.06363</data>
+</node>
+<node id="1348">
+<data key="label">MAKSE, H</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">205</data>
+<data key="b">255</data>
+<data key="x">73.57688</data>
+<data key="y">-276.66013</data>
+</node>
+<node id="1361">
+<data key="label">AHARONY, A</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">135.8805</data>
+<data key="y">-21.902456</data>
+</node>
+<node id="1362">
+<data key="label">ADLER, J</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">134.42947</data>
+<data key="y">-7.1956663</data>
+</node>
+<node id="1363">
+<data key="label">MEYERORTMANNS, H</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">149.61322</data>
+<data key="y">-41.60464</data>
+</node>
+<node id="1384">
+<data key="label">SZABO, G</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">185.83377</data>
+<data key="y">0.34021005</data>
+</node>
+<node id="1385">
+<data key="label">ALAVA, M</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">180</data>
+<data key="b">0</data>
+<data key="x">192.46152</data>
+<data key="y">12.753887</data>
+</node>
+<node id="1389">
+<data key="label">THURNER, S</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">134.84494</data>
+<data key="y">-137.69792</data>
+</node>
+<node id="1394">
+<data key="label">TASS, P</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-132.8764</data>
+<data key="y">330.45676</data>
+</node>
+<node id="1395">
+<data key="label">WEULE, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-118.72093</data>
+<data key="y">339.0674</data>
+</node>
+<node id="1396">
+<data key="label">VOLKMANN, J</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-133.94719</data>
+<data key="y">347.6996</data>
+</node>
+<node id="1397">
+<data key="label">FREUND, H</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-147.8433</data>
+<data key="y">338.04666</data>
+</node>
+<node id="1404">
+<data key="label">TIERI, P</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">208.9669</data>
+<data key="y">-132.78365</data>
+</node>
+<node id="1405">
+<data key="label">VALENSIN, S</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">196.32242</data>
+<data key="y">-142.71451</data>
+</node>
+<node id="1406">
+<data key="label">CASTELLANI, G</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">192.4888</data>
+<data key="y">-127.54609</data>
+</node>
+<node id="1407">
+<data key="label">REMONDINI, D</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">195.97267</data>
+<data key="y">-158.3144</data>
+</node>
+<node id="1408">
+<data key="label">FRANCESCHI, C</data>
+<data key="size">4.0</data>
+<data key="r">220</data>
+<data key="g">238</data>
+<data key="b">228</data>
+<data key="x">210.89415</data>
+<data key="y">-149.53687</data>
+</node>
+<node id="1413">
+<data key="label">KOZMA, B</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">114.93472</data>
+<data key="y">-95.40685</data>
+</node>
+<node id="1414">
+<data key="label">HENGARTNER, N</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">101.47791</data>
+<data key="y">-94.446495</data>
+</node>
+<node id="1415">
+<data key="label">KORNISS, G</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">110.60269</data>
+<data key="y">-114.17785</data>
+</node>
+<node id="1416">
+<data key="label">TORRES, J</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-83.96601</data>
+<data key="y">-124.723915</data>
+</node>
+<node id="1417">
+<data key="label">GARRIDO, P</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">140</data>
+<data key="b">190</data>
+<data key="x">-94.563644</data>
+<data key="y">-114.06567</data>
+</node>
+<node id="1451">
+<data key="label">CANCHO, R</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">114</data>
+<data key="b">169</data>
+<data key="x">-36.19967</data>
+<data key="y">56.967953</data>
+</node>
+<node id="1452">
+<data key="label">VANNUCCHI, F</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">124</data>
+<data key="b">255</data>
+<data key="x">-120.01071</data>
+<data key="y">222.23164</data>
+</node>
+<node id="1460">
+<data key="label">FLAMMINI, A</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">74</data>
+<data key="b">34</data>
+<data key="x">-132.96231</data>
+<data key="y">55.381466</data>
+</node>
+<node id="1461">
+<data key="label">VAZQUEZ, F</data>
+<data key="size">4.0</data>
+<data key="r">43</data>
+<data key="g">233</data>
+<data key="b">255</data>
+<data key="x">104.834076</data>
+<data key="y">-164.70839</data>
+</node>
+<node id="1468">
+<data key="label">CZIROK, A</data>
+<data key="size">4.0</data>
+<data key="r">38</data>
+<data key="g">49</data>
+<data key="b">67</data>
+<data key="x">-22.583681</data>
+<data key="y">-241.05173</data>
+</node>
+<node id="1469">
+<data key="label">COHEN, I</data>
+<data key="size">4.0</data>
+<data key="r">38</data>
+<data key="g">49</data>
+<data key="b">67</data>
+<data key="x">-7.727117</data>
+<data key="y">-248.19824</data>
+</node>
+<node id="1470">
+<data key="label">SHOCHET, O</data>
+<data key="size">4.0</data>
+<data key="r">38</data>
+<data key="g">49</data>
+<data key="b">67</data>
+<data key="x">-9.745578</data>
+<data key="y">-233.0286</data>
+</node>
+<node id="1481">
+<data key="label">VRAGOVIC, I</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-130.84111</data>
+<data key="y">33.477684</data>
+</node>
+<node id="1482">
+<data key="label">LOUIS, E</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-117.03826</data>
+<data key="y">32.82721</data>
+</node>
+<node id="1529">
+<data key="label">WUCHTY, S</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">47.729515</data>
+<data key="y">-220.97774</data>
+</node>
+<node id="1549">
+<data key="label">YEUNG, M</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">110</data>
+<data key="b">0</data>
+<data key="x">89.054115</data>
+<data key="y">47.51279</data>
+</node>
+<node id="1550">
+<data key="label">YOOK, S</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">47.48491</data>
+<data key="y">-181.47151</data>
+</node>
+<node id="1551">
+<data key="label">TU, Y</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">251</data>
+<data key="b">0</data>
+<data key="x">53.53302</data>
+<data key="y">-167.95483</data>
+</node>
+<node id="1556">
+<data key="label">YUSONG, T</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-180.00635</data>
+<data key="y">-51.434795</data>
+</node>
+<node id="1557">
+<data key="label">LINGJIANG, K</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-173.88979</data>
+<data key="y">-65.71978</data>
+</node>
+<node id="1558">
+<data key="label">MUREN, L</data>
+<data key="size">4.0</data>
+<data key="r">136</data>
+<data key="g">41</data>
+<data key="b">133</data>
+<data key="x">-188.5457</data>
+<data key="y">-63.544113</data>
+</node>
+<node id="1560">
+<data key="label">ZAKS, M</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-158.99918</data>
+<data key="y">319.0677</data>
+</node>
+<node id="1561">
+<data key="label">PARK, E</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-158.72952</data>
+<data key="y">304.36542</data>
+</node>
+<edge id="36" source="31" target="30">
+<data key="weight">0.5</data>
+</edge>
+<edge id="37" source="32" target="30">
+<data key="weight">0.5</data>
+</edge>
+<edge id="38" source="32" target="31">
+<data key="weight">0.5</data>
+</edge>
+<edge id="39" source="33" target="30">
+<data key="weight">3.583329916000366</data>
+</edge>
+<edge id="40" source="34" target="30">
+<data key="weight">1.5833300352096558</data>
+</edge>
+<edge id="41" source="34" target="33">
+<data key="weight">4.224999904632568</data>
+</edge>
+<edge id="58" source="45" target="44">
+<data key="weight">0.5</data>
+</edge>
+<edge id="59" source="46" target="44">
+<data key="weight">0.5</data>
+</edge>
+<edge id="60" source="46" target="45">
+<data key="weight">0.5</data>
+</edge>
+<edge id="61" source="48" target="47">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="62" source="49" target="47">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="63" source="49" target="48">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="64" source="50" target="47">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="65" source="50" target="48">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="66" source="50" target="49">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="67" source="51" target="33">
+<data key="weight">0.75</data>
+</edge>
+<edge id="68" source="52" target="51">
+<data key="weight">0.25</data>
+</edge>
+<edge id="69" source="52" target="33">
+<data key="weight">0.25</data>
+</edge>
+<edge id="70" source="53" target="51">
+<data key="weight">0.25</data>
+</edge>
+<edge id="71" source="53" target="52">
+<data key="weight">0.25</data>
+</edge>
+<edge id="72" source="53" target="33">
+<data key="weight">1.8583300113677979</data>
+</edge>
+<edge id="73" source="53" target="34">
+<data key="weight">0.7749999761581421</data>
+</edge>
+<edge id="74" source="54" target="51">
+<data key="weight">0.25</data>
+</edge>
+<edge id="75" source="54" target="52">
+<data key="weight">0.25</data>
+</edge>
+<edge id="76" source="54" target="53">
+<data key="weight">0.625</data>
+</edge>
+<edge id="77" source="54" target="33">
+<data key="weight">2.9916698932647705</data>
+</edge>
+<edge id="78" source="54" target="34">
+<data key="weight">1.158329963684082</data>
+</edge>
+<edge id="79" source="54" target="30">
+<data key="weight">0.25</data>
+</edge>
+<edge id="80" source="55" target="51">
+<data key="weight">0.5</data>
+</edge>
+<edge id="81" source="56" target="51">
+<data key="weight">0.5</data>
+</edge>
+<edge id="82" source="56" target="55">
+<data key="weight">3.833329916000366</data>
+</edge>
+<edge id="83" source="57" target="51">
+<data key="weight">1.0</data>
+</edge>
+<edge id="84" source="58" target="51">
+<data key="weight">1.0</data>
+</edge>
+<edge id="85" source="58" target="57">
+<data key="weight">1.0</data>
+</edge>
+<edge id="98" source="70" target="69">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="99" source="71" target="69">
+<data key="weight">2.166670083999634</data>
+</edge>
+<edge id="100" source="71" target="70">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="101" source="72" target="69">
+<data key="weight">0.9166669845581055</data>
+</edge>
+<edge id="102" source="72" target="70">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="103" source="72" target="71">
+<data key="weight">0.6666669845581055</data>
+</edge>
+<edge id="110" source="78" target="77">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="111" source="78" target="46">
+<data key="weight">1.0</data>
+</edge>
+<edge id="112" source="79" target="77">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="113" source="79" target="78">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="114" source="80" target="77">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="115" source="80" target="78">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="116" source="80" target="79">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="124" source="90" target="55">
+<data key="weight">1.0</data>
+</edge>
+<edge id="128" source="95" target="94">
+<data key="weight">0.5</data>
+</edge>
+<edge id="129" source="96" target="94">
+<data key="weight">2.666670083999634</data>
+</edge>
+<edge id="130" source="96" target="95">
+<data key="weight">0.5</data>
+</edge>
+<edge id="131" source="97" target="94">
+<data key="weight">2.333329916000366</data>
+</edge>
+<edge id="132" source="97" target="95">
+<data key="weight">0.5</data>
+</edge>
+<edge id="133" source="97" target="96">
+<data key="weight">2.333329916000366</data>
+</edge>
+<edge id="134" source="97" target="69">
+<data key="weight">1.8333300352096558</data>
+</edge>
+<edge id="135" source="98" target="94">
+<data key="weight">0.5</data>
+</edge>
+<edge id="136" source="98" target="95">
+<data key="weight">0.5</data>
+</edge>
+<edge id="137" source="98" target="96">
+<data key="weight">0.5</data>
+</edge>
+<edge id="138" source="98" target="97">
+<data key="weight">0.5</data>
+</edge>
+<edge id="139" source="99" target="94">
+<data key="weight">0.5</data>
+</edge>
+<edge id="140" source="99" target="96">
+<data key="weight">0.5</data>
+</edge>
+<edge id="141" source="99" target="97">
+<data key="weight">0.5</data>
+</edge>
+<edge id="142" source="100" target="94">
+<data key="weight">0.25</data>
+</edge>
+<edge id="143" source="100" target="99">
+<data key="weight">1.25</data>
+</edge>
+<edge id="144" source="100" target="96">
+<data key="weight">0.25</data>
+</edge>
+<edge id="145" source="100" target="97">
+<data key="weight">0.25</data>
+</edge>
+<edge id="154" source="114" target="113">
+<data key="weight">1.0</data>
+</edge>
+<edge id="157" source="121" target="120">
+<data key="weight">1.0</data>
+</edge>
+<edge id="158" source="121" target="78">
+<data key="weight">1.0</data>
+</edge>
+<edge id="162" source="127" target="126">
+<data key="weight">0.699999988079071</data>
+</edge>
+<edge id="163" source="128" target="126">
+<data key="weight">0.5</data>
+</edge>
+<edge id="164" source="128" target="127">
+<data key="weight">0.75</data>
+</edge>
+<edge id="166" source="131" target="33">
+<data key="weight">1.3333300352096558</data>
+</edge>
+<edge id="167" source="131" target="30">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="168" source="131" target="34">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="169" source="132" target="33">
+<data key="weight">2.2750000953674316</data>
+</edge>
+<edge id="170" source="132" target="34">
+<data key="weight">0.5249999761581421</data>
+</edge>
+<edge id="171" source="132" target="53">
+<data key="weight">1.024999976158142</data>
+</edge>
+<edge id="172" source="132" target="54">
+<data key="weight">0.375</data>
+</edge>
+<edge id="173" source="133" target="33">
+<data key="weight">1.024999976158142</data>
+</edge>
+<edge id="174" source="133" target="34">
+<data key="weight">1.024999976158142</data>
+</edge>
+<edge id="175" source="133" target="132">
+<data key="weight">0.5249999761581421</data>
+</edge>
+<edge id="176" source="133" target="53">
+<data key="weight">0.5249999761581421</data>
+</edge>
+<edge id="177" source="133" target="54">
+<data key="weight">0.125</data>
+</edge>
+<edge id="178" source="134" target="33">
+<data key="weight">0.5249999761581421</data>
+</edge>
+<edge id="179" source="134" target="34">
+<data key="weight">0.5249999761581421</data>
+</edge>
+<edge id="180" source="134" target="132">
+<data key="weight">0.5249999761581421</data>
+</edge>
+<edge id="181" source="134" target="133">
+<data key="weight">0.5249999761581421</data>
+</edge>
+<edge id="182" source="134" target="53">
+<data key="weight">0.5249999761581421</data>
+</edge>
+<edge id="183" source="134" target="54">
+<data key="weight">0.125</data>
+</edge>
+<edge id="184" source="136" target="135">
+<data key="weight">1.0</data>
+</edge>
+<edge id="231" source="149" target="71">
+<data key="weight">1.1666699647903442</data>
+</edge>
+<edge id="232" source="150" target="149">
+<data key="weight">0.6666669845581055</data>
+</edge>
+<edge id="233" source="150" target="71">
+<data key="weight">0.6666669845581055</data>
+</edge>
+<edge id="234" source="150" target="96">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="235" source="150" target="94">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="236" source="151" target="149">
+<data key="weight">1.1666699647903442</data>
+</edge>
+<edge id="237" source="151" target="71">
+<data key="weight">1.1666699647903442</data>
+</edge>
+<edge id="238" source="151" target="150">
+<data key="weight">4.75</data>
+</edge>
+<edge id="239" source="151" target="127">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="240" source="152" target="149">
+<data key="weight">1.0</data>
+</edge>
+<edge id="247" source="157" target="71">
+<data key="weight">0.5</data>
+</edge>
+<edge id="248" source="158" target="71">
+<data key="weight">0.5</data>
+</edge>
+<edge id="249" source="158" target="157">
+<data key="weight">0.5</data>
+</edge>
+<edge id="251" source="163" target="162">
+<data key="weight">1.0</data>
+</edge>
+<edge id="267" source="184" target="55">
+<data key="weight">0.5</data>
+</edge>
+<edge id="268" source="184" target="56">
+<data key="weight">0.5</data>
+</edge>
+<edge id="269" source="185" target="184">
+<data key="weight">0.5</data>
+</edge>
+<edge id="270" source="186" target="184">
+<data key="weight">0.5</data>
+</edge>
+<edge id="271" source="186" target="185">
+<data key="weight">0.5</data>
+</edge>
+<edge id="275" source="190" target="33">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="276" source="191" target="46">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="277" source="192" target="191">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="278" source="192" target="46">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="279" source="193" target="191">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="280" source="193" target="192">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="281" source="193" target="46">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="282" source="194" target="191">
+<data key="weight">0.5</data>
+</edge>
+<edge id="283" source="194" target="46">
+<data key="weight">0.5</data>
+</edge>
+<edge id="301" source="203" target="131">
+<data key="weight">1.0</data>
+</edge>
+<edge id="312" source="216" target="48">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="313" source="216" target="136">
+<data key="weight">0.5</data>
+</edge>
+<edge id="314" source="217" target="216">
+<data key="weight">1.0833300352096558</data>
+</edge>
+<edge id="315" source="217" target="48">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="316" source="218" target="216">
+<data key="weight">1.6666699647903442</data>
+</edge>
+<edge id="317" source="218" target="217">
+<data key="weight">1.0833300352096558</data>
+</edge>
+<edge id="318" source="218" target="48">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="319" source="219" target="216">
+<data key="weight">0.5</data>
+</edge>
+<edge id="320" source="219" target="218">
+<data key="weight">0.25</data>
+</edge>
+<edge id="321" source="220" target="216">
+<data key="weight">1.5</data>
+</edge>
+<edge id="322" source="220" target="219">
+<data key="weight">0.5</data>
+</edge>
+<edge id="323" source="220" target="218">
+<data key="weight">0.25</data>
+</edge>
+<edge id="324" source="221" target="216">
+<data key="weight">0.25</data>
+</edge>
+<edge id="325" source="221" target="219">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="326" source="221" target="220">
+<data key="weight">0.25</data>
+</edge>
+<edge id="327" source="222" target="216">
+<data key="weight">0.25</data>
+</edge>
+<edge id="328" source="222" target="219">
+<data key="weight">1.75</data>
+</edge>
+<edge id="329" source="222" target="220">
+<data key="weight">0.25</data>
+</edge>
+<edge id="330" source="222" target="221">
+<data key="weight">0.25</data>
+</edge>
+<edge id="331" source="223" target="216">
+<data key="weight">0.5</data>
+</edge>
+<edge id="332" source="223" target="136">
+<data key="weight">0.5</data>
+</edge>
+<edge id="333" source="224" target="216">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="334" source="224" target="220">
+<data key="weight">0.25</data>
+</edge>
+<edge id="335" source="224" target="219">
+<data key="weight">0.25</data>
+</edge>
+<edge id="336" source="224" target="218">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="337" source="225" target="150">
+<data key="weight">2.083329916000366</data>
+</edge>
+<edge id="338" source="225" target="96">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="339" source="225" target="94">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="340" source="225" target="151">
+<data key="weight">0.75</data>
+</edge>
+<edge id="348" source="234" target="233">
+<data key="weight">0.5</data>
+</edge>
+<edge id="349" source="235" target="233">
+<data key="weight">0.5</data>
+</edge>
+<edge id="350" source="235" target="234">
+<data key="weight">0.5</data>
+</edge>
+<edge id="351" source="235" target="72">
+<data key="weight">1.0</data>
+</edge>
+<edge id="362" source="251" target="217">
+<data key="weight">0.25</data>
+</edge>
+<edge id="363" source="251" target="216">
+<data key="weight">0.25</data>
+</edge>
+<edge id="364" source="251" target="218">
+<data key="weight">0.25</data>
+</edge>
+<edge id="365" source="252" target="217">
+<data key="weight">0.25</data>
+</edge>
+<edge id="366" source="252" target="216">
+<data key="weight">0.5</data>
+</edge>
+<edge id="367" source="252" target="251">
+<data key="weight">0.25</data>
+</edge>
+<edge id="368" source="252" target="218">
+<data key="weight">0.25</data>
+</edge>
+<edge id="374" source="263" target="262">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="375" source="264" target="262">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="376" source="264" target="263">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="377" source="265" target="262">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="378" source="265" target="263">
+<data key="weight">0.6761900186538696</data>
+</edge>
+<edge id="379" source="265" target="264">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="380" source="266" target="262">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="381" source="266" target="263">
+<data key="weight">0.6761900186538696</data>
+</edge>
+<edge id="382" source="266" target="264">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="383" source="266" target="265">
+<data key="weight">0.9261900186538696</data>
+</edge>
+<edge id="384" source="267" target="262">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="385" source="267" target="263">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="386" source="267" target="264">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="387" source="267" target="265">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="388" source="267" target="266">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="389" source="268" target="262">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="390" source="268" target="263">
+<data key="weight">0.6761900186538696</data>
+</edge>
+<edge id="391" source="268" target="264">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="392" source="268" target="265">
+<data key="weight">0.9261900186538696</data>
+</edge>
+<edge id="393" source="268" target="266">
+<data key="weight">0.9261900186538696</data>
+</edge>
+<edge id="394" source="268" target="267">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="395" source="269" target="262">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="396" source="269" target="263">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="397" source="269" target="264">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="398" source="269" target="265">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="399" source="269" target="266">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="400" source="269" target="267">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="401" source="269" target="268">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="406" source="277" target="276">
+<data key="weight">0.5</data>
+</edge>
+<edge id="407" source="278" target="276">
+<data key="weight">0.5</data>
+</edge>
+<edge id="408" source="278" target="277">
+<data key="weight">1.0</data>
+</edge>
+<edge id="409" source="280" target="279">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="410" source="281" target="279">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="411" source="281" target="280">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="412" source="281" target="78">
+<data key="weight">1.0</data>
+</edge>
+<edge id="413" source="281" target="150">
+<data key="weight">1.8333300352096558</data>
+</edge>
+<edge id="414" source="282" target="279">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="415" source="282" target="280">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="416" source="282" target="281">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="417" source="283" target="279">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="418" source="283" target="280">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="419" source="283" target="281">
+<data key="weight">3.166670083999634</data>
+</edge>
+<edge id="420" source="283" target="282">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="421" source="284" target="279">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="422" source="284" target="280">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="423" source="284" target="281">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="424" source="284" target="282">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="425" source="284" target="283">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="426" source="285" target="279">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="427" source="285" target="280">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="428" source="285" target="281">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="429" source="285" target="282">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="430" source="285" target="283">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="431" source="285" target="284">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="448" source="301" target="203">
+<data key="weight">1.1666699647903442</data>
+</edge>
+<edge id="449" source="301" target="150">
+<data key="weight">0.5</data>
+</edge>
+<edge id="450" source="301" target="151">
+<data key="weight">0.5</data>
+</edge>
+<edge id="451" source="301" target="162">
+<data key="weight">0.25</data>
+</edge>
+<edge id="452" source="302" target="301">
+<data key="weight">1.3333300352096558</data>
+</edge>
+<edge id="453" source="302" target="203">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="454" source="303" target="301">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="455" source="303" target="203">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="456" source="303" target="302">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="457" source="304" target="301">
+<data key="weight">0.5</data>
+</edge>
+<edge id="458" source="304" target="302">
+<data key="weight">0.5</data>
+</edge>
+<edge id="459" source="305" target="78">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="460" source="306" target="305">
+<data key="weight">0.25</data>
+</edge>
+<edge id="461" source="306" target="78">
+<data key="weight">0.25</data>
+</edge>
+<edge id="462" source="307" target="305">
+<data key="weight">0.25</data>
+</edge>
+<edge id="463" source="307" target="306">
+<data key="weight">0.25</data>
+</edge>
+<edge id="464" source="307" target="78">
+<data key="weight">0.25</data>
+</edge>
+<edge id="465" source="307" target="265">
+<data key="weight">0.25</data>
+</edge>
+<edge id="466" source="307" target="266">
+<data key="weight">0.25</data>
+</edge>
+<edge id="467" source="307" target="268">
+<data key="weight">0.25</data>
+</edge>
+<edge id="468" source="308" target="305">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="469" source="308" target="306">
+<data key="weight">0.25</data>
+</edge>
+<edge id="470" source="308" target="307">
+<data key="weight">0.25</data>
+</edge>
+<edge id="471" source="308" target="78">
+<data key="weight">1.5833300352096558</data>
+</edge>
+<edge id="472" source="309" target="305">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="473" source="309" target="78">
+<data key="weight">3.333329916000366</data>
+</edge>
+<edge id="474" source="309" target="308">
+<data key="weight">2.333329916000366</data>
+</edge>
+<edge id="475" source="310" target="97">
+<data key="weight">0.5</data>
+</edge>
+<edge id="476" source="310" target="69">
+<data key="weight">0.5</data>
+</edge>
+<edge id="481" source="316" target="203">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="482" source="316" target="301">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="483" source="316" target="162">
+<data key="weight">0.25</data>
+</edge>
+<edge id="484" source="317" target="203">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="485" source="317" target="316">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="486" source="317" target="301">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="499" source="327" target="326">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="500" source="327" target="30">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="501" source="328" target="326">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="502" source="328" target="327">
+<data key="weight">1.1666699647903442</data>
+</edge>
+<edge id="503" source="329" target="326">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="504" source="329" target="327">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="505" source="329" target="328">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="506" source="330" target="151">
+<data key="weight">0.5</data>
+</edge>
+<edge id="507" source="331" target="330">
+<data key="weight">0.5</data>
+</edge>
+<edge id="508" source="331" target="151">
+<data key="weight">0.5</data>
+</edge>
+<edge id="522" source="343" target="342">
+<data key="weight">0.5</data>
+</edge>
+<edge id="523" source="343" target="221">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="524" source="343" target="219">
+<data key="weight">2.4761900901794434</data>
+</edge>
+<edge id="525" source="344" target="342">
+<data key="weight">0.5</data>
+</edge>
+<edge id="526" source="344" target="343">
+<data key="weight">0.5</data>
+</edge>
+<edge id="527" source="345" target="252">
+<data key="weight">0.25</data>
+</edge>
+<edge id="528" source="345" target="216">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="529" source="346" target="345">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="530" source="346" target="252">
+<data key="weight">0.25</data>
+</edge>
+<edge id="531" source="346" target="216">
+<data key="weight">0.9166669845581055</data>
+</edge>
+<edge id="532" source="347" target="345">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="533" source="347" target="346">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="534" source="347" target="252">
+<data key="weight">0.25</data>
+</edge>
+<edge id="535" source="347" target="216">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="572" source="370" target="78">
+<data key="weight">0.5</data>
+</edge>
+<edge id="573" source="371" target="370">
+<data key="weight">0.5</data>
+</edge>
+<edge id="574" source="371" target="78">
+<data key="weight">2.5</data>
+</edge>
+<edge id="575" source="371" target="309">
+<data key="weight">0.5</data>
+</edge>
+<edge id="579" source="375" target="33">
+<data key="weight">0.25</data>
+</edge>
+<edge id="580" source="376" target="375">
+<data key="weight">1.9166699647903442</data>
+</edge>
+<edge id="581" source="376" target="33">
+<data key="weight">0.25</data>
+</edge>
+<edge id="582" source="377" target="375">
+<data key="weight">2.916670083999634</data>
+</edge>
+<edge id="583" source="377" target="376">
+<data key="weight">1.9166699647903442</data>
+</edge>
+<edge id="584" source="377" target="33">
+<data key="weight">0.25</data>
+</edge>
+<edge id="585" source="378" target="375">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="586" source="378" target="376">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="587" source="378" target="377">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="634" source="401" target="277">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="635" source="401" target="278">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="636" source="402" target="401">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="637" source="402" target="277">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="638" source="402" target="278">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="639" source="402" target="327">
+<data key="weight">2.166670083999634</data>
+</edge>
+<edge id="640" source="402" target="328">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="641" source="402" target="30">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="642" source="403" target="401">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="643" source="403" target="402">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="644" source="403" target="277">
+<data key="weight">0.5</data>
+</edge>
+<edge id="645" source="403" target="278">
+<data key="weight">0.5</data>
+</edge>
+<edge id="646" source="404" target="401">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="647" source="404" target="402">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="648" source="404" target="277">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="649" source="404" target="403">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="650" source="404" target="278">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="651" source="405" target="401">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="652" source="405" target="402">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="653" source="405" target="277">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="654" source="405" target="403">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="655" source="405" target="278">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="656" source="405" target="404">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="673" source="416" target="402">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="674" source="416" target="327">
+<data key="weight">3.5</data>
+</edge>
+<edge id="675" source="416" target="328">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="676" source="417" target="402">
+<data key="weight">1.0</data>
+</edge>
+<edge id="677" source="417" target="327">
+<data key="weight">1.0</data>
+</edge>
+<edge id="686" source="428" target="46">
+<data key="weight">1.3333300352096558</data>
+</edge>
+<edge id="687" source="429" target="428">
+<data key="weight">1.0</data>
+</edge>
+<edge id="700" source="443" target="442">
+<data key="weight">1.0</data>
+</edge>
+<edge id="701" source="443" target="72">
+<data key="weight">0.5</data>
+</edge>
+<edge id="709" source="450" target="282">
+<data key="weight">1.0</data>
+</edge>
+<edge id="738" source="461" target="460">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="739" source="462" target="460">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="740" source="462" target="461">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="741" source="463" target="460">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="742" source="463" target="461">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="743" source="463" target="462">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="744" source="463" target="301">
+<data key="weight">0.5</data>
+</edge>
+<edge id="745" source="464" target="33">
+<data key="weight">1.0</data>
+</edge>
+<edge id="746" source="465" target="464">
+<data key="weight">1.5</data>
+</edge>
+<edge id="747" source="466" target="464">
+<data key="weight">0.5</data>
+</edge>
+<edge id="748" source="466" target="465">
+<data key="weight">0.5</data>
+</edge>
+<edge id="759" source="473" target="472">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="760" source="473" target="222">
+<data key="weight">0.5</data>
+</edge>
+<edge id="761" source="473" target="219">
+<data key="weight">0.5</data>
+</edge>
+<edge id="762" source="474" target="472">
+<data key="weight">0.5</data>
+</edge>
+<edge id="763" source="474" target="473">
+<data key="weight">0.5</data>
+</edge>
+<edge id="775" source="485" target="33">
+<data key="weight">1.0</data>
+</edge>
+<edge id="777" source="488" target="33">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="778" source="488" target="54">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="779" source="489" target="488">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="780" source="489" target="33">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="781" source="489" target="54">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="782" source="490" target="309">
+<data key="weight">1.5</data>
+</edge>
+<edge id="783" source="490" target="78">
+<data key="weight">0.5</data>
+</edge>
+<edge id="784" source="491" target="490">
+<data key="weight">0.5</data>
+</edge>
+<edge id="785" source="491" target="309">
+<data key="weight">0.5</data>
+</edge>
+<edge id="786" source="492" target="490">
+<data key="weight">1.0</data>
+</edge>
+<edge id="787" source="493" target="490">
+<data key="weight">0.5</data>
+</edge>
+<edge id="788" source="493" target="309">
+<data key="weight">0.5</data>
+</edge>
+<edge id="793" source="499" target="303">
+<data key="weight">1.0</data>
+</edge>
+<edge id="794" source="500" target="150">
+<data key="weight">0.5</data>
+</edge>
+<edge id="795" source="501" target="500">
+<data key="weight">1.0</data>
+</edge>
+<edge id="796" source="502" target="500">
+<data key="weight">2.5</data>
+</edge>
+<edge id="797" source="502" target="501">
+<data key="weight">1.0</data>
+</edge>
+<edge id="798" source="503" target="500">
+<data key="weight">1.5</data>
+</edge>
+<edge id="799" source="503" target="502">
+<data key="weight">0.5</data>
+</edge>
+<edge id="801" source="507" target="190">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="802" source="507" target="33">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="803" source="508" target="507">
+<data key="weight">1.0833300352096558</data>
+</edge>
+<edge id="804" source="508" target="190">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="805" source="508" target="33">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="806" source="509" target="507">
+<data key="weight">0.75</data>
+</edge>
+<edge id="807" source="509" target="508">
+<data key="weight">0.75</data>
+</edge>
+<edge id="808" source="509" target="190">
+<data key="weight">0.25</data>
+</edge>
+<edge id="809" source="509" target="33">
+<data key="weight">0.25</data>
+</edge>
+<edge id="813" source="515" target="514">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="814" source="516" target="514">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="815" source="516" target="515">
+<data key="weight">2.333329916000366</data>
+</edge>
+<edge id="816" source="516" target="346">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="817" source="516" target="216">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="818" source="516" target="151">
+<data key="weight">1.5833300352096558</data>
+</edge>
+<edge id="819" source="516" target="150">
+<data key="weight">1.0833300352096558</data>
+</edge>
+<edge id="820" source="516" target="225">
+<data key="weight">0.25</data>
+</edge>
+<edge id="821" source="517" target="514">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="822" source="517" target="515">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="823" source="517" target="516">
+<data key="weight">2.916670083999634</data>
+</edge>
+<edge id="824" source="517" target="151">
+<data key="weight">2.25</data>
+</edge>
+<edge id="825" source="517" target="150">
+<data key="weight">1.5833300352096558</data>
+</edge>
+<edge id="826" source="517" target="225">
+<data key="weight">0.25</data>
+</edge>
+<edge id="827" source="517" target="127">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="828" source="517" target="152">
+<data key="weight">1.0</data>
+</edge>
+<edge id="861" source="547" target="546">
+<data key="weight">1.0</data>
+</edge>
+<edge id="862" source="547" target="55">
+<data key="weight">0.5</data>
+</edge>
+<edge id="863" source="547" target="56">
+<data key="weight">0.5</data>
+</edge>
+<edge id="864" source="547" target="329">
+<data key="weight">1.5</data>
+</edge>
+<edge id="865" source="548" target="121">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="866" source="549" target="548">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="867" source="549" target="121">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="868" source="550" target="548">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="869" source="550" target="549">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="870" source="550" target="121">
+<data key="weight">1.8333300352096558</data>
+</edge>
+<edge id="878" source="561" target="33">
+<data key="weight">0.7083330154418945</data>
+</edge>
+<edge id="879" source="561" target="53">
+<data key="weight">0.7083330154418945</data>
+</edge>
+<edge id="880" source="561" target="34">
+<data key="weight">0.375</data>
+</edge>
+<edge id="881" source="561" target="133">
+<data key="weight">0.125</data>
+</edge>
+<edge id="882" source="561" target="54">
+<data key="weight">0.375</data>
+</edge>
+<edge id="883" source="561" target="132">
+<data key="weight">0.125</data>
+</edge>
+<edge id="884" source="561" target="134">
+<data key="weight">0.125</data>
+</edge>
+<edge id="885" source="562" target="561">
+<data key="weight">0.45833298563957214</data>
+</edge>
+<edge id="886" source="562" target="33">
+<data key="weight">0.45833298563957214</data>
+</edge>
+<edge id="887" source="562" target="53">
+<data key="weight">0.45833298563957214</data>
+</edge>
+<edge id="888" source="562" target="34">
+<data key="weight">0.125</data>
+</edge>
+<edge id="889" source="562" target="133">
+<data key="weight">0.125</data>
+</edge>
+<edge id="890" source="562" target="54">
+<data key="weight">0.125</data>
+</edge>
+<edge id="891" source="562" target="132">
+<data key="weight">0.125</data>
+</edge>
+<edge id="892" source="562" target="134">
+<data key="weight">0.125</data>
+</edge>
+<edge id="904" source="574" target="281">
+<data key="weight">2.5</data>
+</edge>
+<edge id="905" source="574" target="283">
+<data key="weight">0.5</data>
+</edge>
+<edge id="906" source="575" target="574">
+<data key="weight">0.5</data>
+</edge>
+<edge id="907" source="575" target="281">
+<data key="weight">0.5</data>
+</edge>
+<edge id="908" source="576" target="574">
+<data key="weight">0.5</data>
+</edge>
+<edge id="909" source="576" target="281">
+<data key="weight">0.5</data>
+</edge>
+<edge id="915" source="585" target="136">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="916" source="586" target="585">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="917" source="586" target="136">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="918" source="587" target="585">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="919" source="587" target="586">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="920" source="587" target="136">
+<data key="weight">1.8333300352096558</data>
+</edge>
+<edge id="921" source="590" target="589">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="922" source="590" target="307">
+<data key="weight">1.0</data>
+</edge>
+<edge id="923" source="591" target="589">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="924" source="591" target="590">
+<data key="weight">1.5833300352096558</data>
+</edge>
+<edge id="925" source="592" target="589">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="926" source="592" target="590">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="927" source="592" target="591">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="929" source="595" target="277">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="930" source="595" target="403">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="931" source="595" target="278">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="932" source="596" target="327">
+<data key="weight">0.5</data>
+</edge>
+<edge id="933" source="596" target="416">
+<data key="weight">0.5</data>
+</edge>
+<edge id="934" source="596" target="46">
+<data key="weight">1.0</data>
+</edge>
+<edge id="944" source="609" target="45">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="945" source="610" target="609">
+<data key="weight">0.5</data>
+</edge>
+<edge id="946" source="610" target="45">
+<data key="weight">0.5</data>
+</edge>
+<edge id="947" source="611" target="609">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="948" source="611" target="45">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="949" source="612" target="609">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="950" source="612" target="45">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="951" source="612" target="611">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="973" source="638" target="162">
+<data key="weight">0.25</data>
+</edge>
+<edge id="974" source="638" target="316">
+<data key="weight">0.25</data>
+</edge>
+<edge id="975" source="638" target="301">
+<data key="weight">0.75</data>
+</edge>
+<edge id="976" source="638" target="463">
+<data key="weight">0.5</data>
+</edge>
+<edge id="977" source="639" target="638">
+<data key="weight">0.25</data>
+</edge>
+<edge id="978" source="639" target="162">
+<data key="weight">0.25</data>
+</edge>
+<edge id="979" source="639" target="316">
+<data key="weight">0.25</data>
+</edge>
+<edge id="980" source="639" target="301">
+<data key="weight">0.25</data>
+</edge>
+<edge id="981" source="640" target="638">
+<data key="weight">1.0</data>
+</edge>
+<edge id="982" source="641" target="78">
+<data key="weight">1.0</data>
+</edge>
+<edge id="984" source="646" target="78">
+<data key="weight">2.5</data>
+</edge>
+<edge id="991" source="652" target="34">
+<data key="weight">0.25</data>
+</edge>
+<edge id="992" source="653" target="652">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="993" source="654" target="652">
+<data key="weight">2.083329916000366</data>
+</edge>
+<edge id="994" source="654" target="653">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="995" source="654" target="34">
+<data key="weight">1.25</data>
+</edge>
+<edge id="996" source="654" target="55">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="997" source="654" target="56">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="998" source="655" target="652">
+<data key="weight">2.083329916000366</data>
+</edge>
+<edge id="999" source="655" target="653">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1000" source="655" target="654">
+<data key="weight">2.083329916000366</data>
+</edge>
+<edge id="1001" source="655" target="34">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1002" source="656" target="652">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1003" source="656" target="654">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1004" source="656" target="655">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1005" source="657" target="652">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="1006" source="657" target="34">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1007" source="657" target="654">
+<data key="weight">0.9166669845581055</data>
+</edge>
+<edge id="1008" source="657" target="655">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="1029" source="674" target="515">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1030" source="674" target="516">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1031" source="675" target="443">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1032" source="676" target="675">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1033" source="676" target="443">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1045" source="685" target="57">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1052" source="692" target="342">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1053" source="694" target="693">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1054" source="695" target="693">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1055" source="695" target="694">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1056" source="696" target="693">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1057" source="696" target="694">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1058" source="696" target="695">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1059" source="697" target="693">
+<data key="weight">1.2000000476837158</data>
+</edge>
+<edge id="1060" source="697" target="694">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1061" source="697" target="695">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1062" source="697" target="696">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1063" source="697" target="219">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="1064" source="697" target="343">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="1065" source="698" target="693">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1066" source="698" target="694">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1067" source="698" target="695">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1068" source="698" target="696">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1069" source="698" target="697">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1071" source="700" target="96">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1072" source="701" target="700">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1073" source="701" target="96">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1074" source="702" target="700">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1075" source="702" target="96">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1076" source="702" target="701">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1083" source="708" target="97">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="1084" source="708" target="94">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="1085" source="708" target="96">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="1086" source="708" target="99">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1087" source="709" target="97">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1088" source="709" target="69">
+<data key="weight">0.6666669845581055</data>
+</edge>
+<edge id="1089" source="709" target="71">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1090" source="709" target="72">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1091" source="710" target="97">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1092" source="710" target="709">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1093" source="710" target="69">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1099" source="715" target="695">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1100" source="716" target="695">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1101" source="716" target="715">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1102" source="717" target="695">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1103" source="717" target="715">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1104" source="717" target="716">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1105" source="718" target="695">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1106" source="718" target="715">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1107" source="718" target="716">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1108" source="718" target="717">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1117" source="729" target="136">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1118" source="729" target="587">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1123" source="736" target="71">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1124" source="737" target="736">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1125" source="737" target="71">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1126" source="738" target="443">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1127" source="738" target="72">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1128" source="739" target="443">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1149" source="756" target="34">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1150" source="756" target="78">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1151" source="757" target="756">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1152" source="757" target="69">
+<data key="weight">0.75</data>
+</edge>
+<edge id="1153" source="757" target="72">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1154" source="758" target="756">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1155" source="758" target="757">
+<data key="weight">1.25</data>
+</edge>
+<edge id="1156" source="758" target="69">
+<data key="weight">0.75</data>
+</edge>
+<edge id="1157" source="758" target="72">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1158" source="759" target="756">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1159" source="759" target="78">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1160" source="759" target="371">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1161" source="760" target="756">
+<data key="weight">1.5</data>
+</edge>
+<edge id="1162" source="760" target="34">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1163" source="761" target="756">
+<data key="weight">1.86667001247406</data>
+</edge>
+<edge id="1164" source="761" target="34">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1165" source="762" target="756">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1166" source="762" target="761">
+<data key="weight">0.6666669845581055</data>
+</edge>
+<edge id="1167" source="762" target="34">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1168" source="763" target="756">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1169" source="763" target="761">
+<data key="weight">0.6666669845581055</data>
+</edge>
+<edge id="1170" source="763" target="762">
+<data key="weight">0.6666669845581055</data>
+</edge>
+<edge id="1171" source="763" target="34">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1172" source="764" target="756">
+<data key="weight">0.5333330035209656</data>
+</edge>
+<edge id="1173" source="764" target="761">
+<data key="weight">0.5333330035209656</data>
+</edge>
+<edge id="1174" source="764" target="121">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="1175" source="765" target="756">
+<data key="weight">0.5333330035209656</data>
+</edge>
+<edge id="1176" source="765" target="764">
+<data key="weight">0.8666669726371765</data>
+</edge>
+<edge id="1177" source="765" target="761">
+<data key="weight">0.5333330035209656</data>
+</edge>
+<edge id="1178" source="765" target="121">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1185" source="770" target="127">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1186" source="770" target="126">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1187" source="771" target="770">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1188" source="771" target="127">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1189" source="771" target="126">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1190" source="772" target="770">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1191" source="772" target="771">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1192" source="772" target="127">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1193" source="772" target="126">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1194" source="773" target="770">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1195" source="773" target="771">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1196" source="773" target="127">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1197" source="773" target="772">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1198" source="773" target="126">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1199" source="774" target="761">
+<data key="weight">1.3333300352096558</data>
+</edge>
+<edge id="1200" source="774" target="657">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1201" source="774" target="654">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1202" source="775" target="774">
+<data key="weight">1.3333300352096558</data>
+</edge>
+<edge id="1203" source="775" target="761">
+<data key="weight">1.533329963684082</data>
+</edge>
+<edge id="1204" source="775" target="764">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1205" source="775" target="756">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1206" source="775" target="765">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1207" source="776" target="774">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1208" source="776" target="761">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1209" source="776" target="775">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1220" source="788" target="346">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1221" source="788" target="216">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1222" source="788" target="516">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1331" source="839" target="34">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1332" source="839" target="33">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1333" source="839" target="54">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1334" source="840" target="34">
+<data key="weight">0.44999998807907104</data>
+</edge>
+<edge id="1335" source="840" target="30">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1336" source="840" target="54">
+<data key="weight">0.44999998807907104</data>
+</edge>
+<edge id="1337" source="840" target="33">
+<data key="weight">0.44999998807907104</data>
+</edge>
+<edge id="1351" source="853" target="646">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1352" source="853" target="78">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1361" source="863" target="654">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1362" source="864" target="863">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1363" source="864" target="654">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1364" source="865" target="654">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1365" source="865" target="34">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1366" source="866" target="371">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1367" source="867" target="866">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1368" source="867" target="371">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1396" source="892" target="761">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1397" source="892" target="764">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1398" source="892" target="756">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1399" source="892" target="765">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1400" source="892" target="775">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1401" source="893" target="652">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1402" source="893" target="654">
+<data key="weight">0.6666669845581055</data>
+</edge>
+<edge id="1403" source="893" target="655">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1404" source="893" target="55">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1405" source="893" target="56">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1406" source="894" target="402">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1407" source="894" target="30">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1408" source="894" target="327">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1426" source="908" target="307">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1427" source="908" target="265">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1428" source="908" target="266">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1429" source="908" target="268">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1467" source="934" target="55">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1468" source="934" target="56">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1483" source="944" target="263">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1484" source="944" target="265">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1485" source="944" target="266">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1486" source="944" target="268">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1487" source="945" target="263">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1488" source="945" target="265">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1489" source="945" target="266">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1490" source="945" target="944">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1491" source="945" target="268">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1501" source="955" target="194">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1502" source="956" target="955">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1503" source="956" target="194">
+<data key="weight">1.0833300352096558</data>
+</edge>
+<edge id="1510" source="963" target="517">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1511" source="963" target="151">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1512" source="964" target="963">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1513" source="964" target="517">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1514" source="964" target="151">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1536" source="977" target="758">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1537" source="977" target="757">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1538" source="977" target="69">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1539" source="977" target="72">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1544" source="984" target="983">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1545" source="984" target="473">
+<data key="weight">2.166670083999634</data>
+</edge>
+<edge id="1546" source="984" target="472">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1547" source="985" target="983">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1548" source="985" target="984">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="1549" source="985" target="473">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1550" source="986" target="983">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1551" source="986" target="984">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1577" source="1005" target="78">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1579" source="1008" target="51">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1580" source="1008" target="33">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1587" source="1021" target="127">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1588" source="1021" target="128">
+<data key="weight">0.75</data>
+</edge>
+<edge id="1589" source="1022" target="127">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1590" source="1022" target="128">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1591" source="1022" target="1021">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1592" source="1023" target="127">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1593" source="1023" target="128">
+<data key="weight">1.75</data>
+</edge>
+<edge id="1594" source="1023" target="1021">
+<data key="weight">0.75</data>
+</edge>
+<edge id="1595" source="1023" target="1022">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1596" source="1024" target="53">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1597" source="1025" target="1024">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1598" source="1025" target="53">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1599" source="1026" target="303">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1600" source="1027" target="1026">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1606" source="1030" target="550">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1607" source="1030" target="121">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1614" source="1039" target="308">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1615" source="1040" target="1039">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1616" source="1040" target="308">
+<data key="weight">1.5</data>
+</edge>
+<edge id="1617" source="1041" target="224">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1618" source="1041" target="218">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1619" source="1041" target="216">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1714" source="1081" target="281">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1715" source="1082" target="69">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1716" source="1083" target="1082">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1717" source="1083" target="69">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1720" source="1086" target="516">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1721" source="1087" target="516">
+<data key="weight">2.5</data>
+</edge>
+<edge id="1722" source="1087" target="1086">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1723" source="1088" target="516">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1724" source="1088" target="1087">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1725" source="1088" target="151">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1726" source="1089" target="516">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1727" source="1089" target="1087">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1728" source="1091" target="473">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1729" source="1091" target="472">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1730" source="1091" target="984">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1731" source="1092" target="473">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="1732" source="1092" target="984">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="1733" source="1092" target="985">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1793" source="1121" target="78">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1794" source="1122" target="78">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1795" source="1122" target="1121">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1796" source="1123" target="78">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1797" source="1123" target="756">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1805" source="1130" target="657">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1806" source="1130" target="774">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1807" source="1130" target="654">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="1808" source="1130" target="34">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1811" source="1135" target="956">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="1812" source="1135" target="194">
+<data key="weight">0.5833330154418945</data>
+</edge>
+<edge id="1813" source="1136" target="1135">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1814" source="1136" target="956">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1815" source="1136" target="194">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1816" source="1137" target="1135">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1817" source="1137" target="1136">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1818" source="1137" target="956">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1819" source="1137" target="194">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1820" source="1138" target="1135">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1821" source="1138" target="194">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1822" source="1138" target="956">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1825" source="1145" target="221">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1826" source="1145" target="343">
+<data key="weight">1.4761899709701538</data>
+</edge>
+<edge id="1827" source="1145" target="219">
+<data key="weight">2.142859935760498</data>
+</edge>
+<edge id="1828" source="1145" target="697">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="1875" source="1162" target="114">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1876" source="1162" target="186">
+<data key="weight">1.25</data>
+</edge>
+<edge id="1877" source="1163" target="114">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1878" source="1163" target="1162">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1887" source="1172" target="78">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1891" source="1177" target="150">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1892" source="1177" target="96">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1893" source="1178" target="150">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="1894" source="1178" target="281">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="1895" source="1180" target="589">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1896" source="1180" target="590">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1897" source="1180" target="591">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1898" source="1181" target="1180">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1899" source="1181" target="589">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1900" source="1181" target="590">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1901" source="1181" target="591">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1902" source="1182" target="302">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1906" source="1189" target="327">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1907" source="1189" target="328">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1908" source="1190" target="54">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1909" source="1190" target="34">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1910" source="1190" target="840">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1911" source="1190" target="33">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1912" source="1191" target="1190">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1913" source="1191" target="54">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1914" source="1191" target="34">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1915" source="1191" target="840">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1916" source="1191" target="33">
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge id="1918" source="1195" target="78">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1919" source="1196" target="1195">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1920" source="1196" target="78">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1921" source="1197" target="1195">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1922" source="1197" target="1196">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1923" source="1197" target="78">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="1978" source="1214" target="330">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1979" source="1215" target="1214">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1980" source="1215" target="330">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1981" source="1216" target="1214">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1982" source="1216" target="330">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1983" source="1216" target="1215">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1984" source="1217" target="1214">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1985" source="1217" target="330">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1986" source="1217" target="1215">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1987" source="1217" target="1216">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1989" source="1221" target="500">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1990" source="1221" target="150">
+<data key="weight">0.5</data>
+</edge>
+<edge id="1996" source="1228" target="132">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1997" source="1228" target="54">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1998" source="1228" target="33">
+<data key="weight">0.25</data>
+</edge>
+<edge id="1999" source="1229" target="132">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2000" source="1229" target="1228">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2001" source="1229" target="54">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2002" source="1229" target="33">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2012" source="1239" target="547">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2032" source="1255" target="764">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="2033" source="1255" target="765">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2034" source="1255" target="121">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="2044" source="1263" target="375">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2045" source="1263" target="376">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2046" source="1263" target="377">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2080" source="1282" target="1145">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2081" source="1282" target="219">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2082" source="1283" target="1282">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2083" source="1283" target="1145">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2084" source="1283" target="219">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2098" source="1295" target="375">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2099" source="1295" target="376">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2100" source="1295" target="33">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2101" source="1295" target="377">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2122" source="1313" target="1312">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2123" source="1314" target="1312">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2124" source="1314" target="1313">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2125" source="1315" target="1312">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2126" source="1315" target="1313">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2127" source="1315" target="1314">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2128" source="1315" target="53">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2129" source="1316" target="1312">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2130" source="1316" target="1313">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2131" source="1316" target="1314">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2132" source="1316" target="1315">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2151" source="1341" target="517">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2152" source="1342" target="281">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2153" source="1342" target="150">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2154" source="1342" target="1178">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2155" source="1343" target="281">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2156" source="1344" target="281">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2157" source="1344" target="1343">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2160" source="1347" target="377">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2161" source="1348" target="1347">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2162" source="1348" target="377">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2184" source="1361" target="46">
+<data key="weight">1.3333300352096558</data>
+</edge>
+<edge id="2185" source="1361" target="428">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2186" source="1362" target="46">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2187" source="1362" target="1361">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2188" source="1362" target="428">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2189" source="1363" target="46">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2219" source="1384" target="194">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2220" source="1385" target="1384">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2221" source="1385" target="194">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2223" source="1389" target="329">
+<data key="weight">1.5</data>
+</edge>
+<edge id="2224" source="1389" target="547">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2228" source="1394" target="1145">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2229" source="1394" target="219">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2230" source="1394" target="343">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2231" source="1394" target="697">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2232" source="1395" target="1394">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2233" source="1395" target="1145">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2234" source="1395" target="219">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2235" source="1395" target="343">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2236" source="1395" target="697">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2237" source="1396" target="1394">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2238" source="1396" target="1145">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2239" source="1396" target="1395">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2240" source="1396" target="219">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2241" source="1396" target="343">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2242" source="1396" target="697">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2243" source="1397" target="1394">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2244" source="1397" target="1145">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2245" source="1397" target="1395">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2246" source="1397" target="219">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2247" source="1397" target="343">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2248" source="1397" target="1396">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2249" source="1397" target="697">
+<data key="weight">0.14285700023174286</data>
+</edge>
+<edge id="2261" source="1404" target="327">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2262" source="1404" target="416">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2263" source="1405" target="1404">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2264" source="1405" target="327">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2265" source="1405" target="416">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2266" source="1406" target="1404">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2267" source="1406" target="1405">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2268" source="1406" target="327">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2269" source="1406" target="416">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2270" source="1407" target="1404">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2271" source="1407" target="1405">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2272" source="1407" target="327">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2273" source="1407" target="1406">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2274" source="1407" target="416">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2275" source="1408" target="1404">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2276" source="1408" target="1405">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2277" source="1408" target="327">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2278" source="1408" target="1406">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2279" source="1408" target="416">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2280" source="1408" target="1407">
+<data key="weight">0.16666699945926666</data>
+</edge>
+<edge id="2288" source="1413" target="186">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2289" source="1413" target="1162">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2290" source="1414" target="186">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2291" source="1414" target="1413">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2292" source="1414" target="1162">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2293" source="1415" target="186">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2294" source="1415" target="1413">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2295" source="1415" target="1162">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2296" source="1415" target="1414">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2297" source="1416" target="303">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2298" source="1416" target="1026">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2299" source="1417" target="1416">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2300" source="1417" target="303">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2301" source="1417" target="1026">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2510" source="1451" target="283">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2511" source="1451" target="281">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2512" source="1452" target="216">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2522" source="1460" target="517">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2523" source="1460" target="127">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2524" source="1460" target="151">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2525" source="1461" target="55">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2526" source="1461" target="56">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2541" source="1468" target="53">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2542" source="1468" target="1315">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2543" source="1469" target="53">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2544" source="1469" target="1468">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2545" source="1469" target="1315">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2546" source="1470" target="53">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2547" source="1470" target="1468">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2548" source="1470" target="1315">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2549" source="1470" target="1469">
+<data key="weight">0.25</data>
+</edge>
+<edge id="2560" source="1481" target="96">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2561" source="1482" target="1481">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2562" source="1482" target="96">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2624" source="1529" target="54">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2625" source="1529" target="33">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2660" source="1549" target="308">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2661" source="1550" target="34">
+<data key="weight">0.8333330154418945</data>
+</edge>
+<edge id="2662" source="1550" target="33">
+<data key="weight">1.3333300352096558</data>
+</edge>
+<edge id="2663" source="1550" target="54">
+<data key="weight">0.5</data>
+</edge>
+<edge id="2664" source="1551" target="1550">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2665" source="1551" target="34">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2666" source="1551" target="33">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2673" source="1556" target="676">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2674" source="1557" target="1556">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2675" source="1557" target="676">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2676" source="1558" target="1556">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2677" source="1558" target="676">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2678" source="1558" target="1557">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2679" source="1560" target="1145">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2680" source="1560" target="219">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2681" source="1561" target="1560">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2682" source="1561" target="1145">
+<data key="weight">0.33333298563957214</data>
+</edge>
+<edge id="2683" source="1561" target="219">
+<data key="weight">0.33333298563957214</data>
+</edge>
+</graph>
+</graphml>
